@@ -1,7 +1,6 @@
 <?php
 include "flag.php";
 include "ipinfo.php";
-include "shadowsocks.php";
 include "vmess.php";
 include "xray.php";
 include "ping.php";
