@@ -129,7 +129,7 @@ function get_config($channel, $type)
                     $final_data[$key]["channel"]['logo'] = $channels_assets[$channel]['logo'];
                     $final_data[$key]["type"] = $type;
                     $final_data[$key]["config"] = ($type == 'vmess') ? $final_config : urldecode($final_config);
-                    $final_data[$key]["time"] = @convert_to_iran_time( $matches[1][$key] );
+                    $final_data[$key]["time"] = @convert_to_timezone( $matches[1][$key] );
                 }
             }
         }
