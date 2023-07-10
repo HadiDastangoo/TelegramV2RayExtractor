@@ -2,27 +2,35 @@
 // all output to json
 header("Content-type: application/json;");
 
-// change timezone to Iran Standard Timezone
-date_default_timezone_set("Asia/Tehran");
+// stat for cron Log file
+$startProcess = date('Y-m-d H:i:s');
 
-// error handling
-ini_set('display_errors', 1);
-ini_set('log_errors', 1);
-ini_set('error_log', 'error_log');
+// include main config file & modules
+include 'config.php';
+include 'functions.php';
+include CHANNELS_DIR . 'channels.php';
+// include CHANNELS_DIR . 'channels_sample.php';
 
-// defaults
-define('SUB_DIR',   'sub/');
+// check channels directory
+if ( !file_exists( CHANNELS_DIR ) )
+    mkdir( CHANNELS_DIR ) or die('Error making directory (Line: ' . __LINE__ . ')');
 
-require("modules/get_data.php");
-require("modules/channels.php");
+// define all allowed protocol types
+$all_types = ['vmess', 'vless', 'trojan'];
 
+
+// ******************** <Extraction> ********************
+// extract configs
 foreach ( $channels as $channel => $types )
 {
     for ( $type_count = 0; $type_count < count($types); $type_count++ )
     {
-        $mix[$types[$type_count]][] = @get_config($channel, $types[$type_count]);
+        if ( in_array( $types[$type_count], $all_types ) )
+            $mix[$types[$type_count]][] = @get_config($channel, $types[$type_count]);
     }
 }
+// ******************** </Extraction> ********************
+
 
 // get protocol details array
 $vmess_data = $mix['vmess'];
@@ -65,11 +73,11 @@ foreach ( $trojan_data as $object )
     }
 }
 
-// mix
+// mix all!
 $mix_array = array_merge( $vmess_array, $vless_array, $trojan_array );
 
 
-// create config data plaintext
+// prepare config data plaintext
 $vmess = implode("\n", $vmess_array);
 $vless = implode("\n", $vless_array);
 $trojan = implode("\n", $trojan_array);
@@ -80,6 +88,9 @@ $fixed_vless = remove_duplicate_xray( str_replace("&amp;", "&", $vless), "vless"
 $fixed_reality = get_reality( $fixed_vless );
 $fixed_trojan = remove_duplicate_xray( str_replace("&amp;", "&", $trojan), "trojan");
 $fixed_mix = "$fixed_vmess\n$fixed_vless\n$fixed_trojan";
+
+
+// ******************** Create Subscription ********************
 
 // check subscription directory
 if ( !file_exists( SUB_DIR ) )
@@ -100,22 +111,59 @@ file_put_contents( SUB_DIR . "trojan_base64", base64_encode($fixed_trojan));
 file_put_contents( SUB_DIR . "mix_base64", base64_encode($fixed_mix));
 
 
-// ******************** Output Statistics ********************
-function line( $sep = '-', $mult = 50 )
+
+// ******************** Update Channels Data ********************
+
+$channel_array = [];
+
+foreach ( $channels as $channel => $data_array )
 {
-    echo "\n" . str_repeat( $sep, $mult) . "\n";
+    // get telegram channel contents
+    $html = file_get_contents("https://t.me/s/" . $channel);
+    
+    // prepare channel properties' pattern
+    $title_pattern = '#<meta property="twitter:title" content="(.*?)">#';
+    $image_pattern = '#<meta property="twitter:image" content="(.*?)">#';
+    
+    // get channel property
+    preg_match($image_pattern, $html , $image_match);
+    preg_match($title_pattern, $html , $title_match);
+    
+    // put logo into channel directory and set channel property into array
+    file_put_contents( CHANNELS_ASSETS_DIR . $channel . ".jpg", file_get_contents($image_match[1]));
+    $channel_array[$channel]['types'] = $data_array;
+    $channel_array[$channel]['title'] = $title_match[1];
+    $channel_array[$channel]['logo'] = "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/" . $channel . ".jpg";
 }
-echo line();
+
+// update channels data into json
+file_put_contents( CHANNELS_DIR . "channels.json", json_encode($channel_array , JSON_PRETTY_PRINT));
+
+
+
+// ******************** Report ********************
+
+echo "\n" . str_repeat('=', 50) . "\n";
 echo "VMess:\t" . count($vmess_array);
-echo line();
+echo "\n" . str_repeat('-', 50) . "\n";
 echo "VLESS:\t" . count($vless_array) . "\t(Reality: " . count( explode("\n", $fixed_reality) ) . ")";
-echo line();
+echo "\n" . str_repeat('-', 50) . "\n";
 echo "Trojan:\t" . count($trojan_array);
-echo line('=');
+echo "\n" . str_repeat('=', 50) . "\n";
 echo "Sum:\t" . count($mix_array);
-echo line();
+echo "\n" . str_repeat('-', 50) . "\n";
 echo "Total:\t" . count(explode("\n", $fixed_mix)) . "\t(" . ( count($mix_array) - count(explode("\n", $fixed_mix)) ) . " duplicates merged)";
-echo line('=');
+echo "\n" . str_repeat('=', 50) . "\n";
 echo "\n";
 // print_r( $fixed_mix );
-// ************************************************************
+
+
+
+// ******************** Log ********************
+
+$sapi_name = php_sapi_name();
+$statFile = fopen( CRON_LOG_FILE, "a+" ) or die('Error openning log file (line:' . __LINE__ . ')');
+$endProcess = date('Y-m-d H:i:s');
+$log = "$startProcess\t$endProcess\t" . count($mix_array) . "\t" . count(explode("\n", $fixed_mix)) . "\t$sapi_name\n";
+fwrite( $statFile, $log );
+fclose( $statFile );
