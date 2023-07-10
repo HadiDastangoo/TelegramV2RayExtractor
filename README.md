@@ -1,43 +1,9 @@
-# V2ray Collector
-[![Collector](https://github.com/yebekhe/TelegramV2rayCollector/actions/workflows/php.yml/badge.svg)](https://github.com/yebekhe/TelegramV2rayCollector/actions/workflows/php.yml) [![Channels](https://github.com/yebekhe/TelegramV2rayCollector/actions/workflows/channel_assets.yml/badge.svg)](https://github.com/yebekhe/TelegramV2rayCollector/actions/workflows/channel_assets.yml)
+# Telegram V2ray Extractor
 
-<b>This project is intended for educational purposes only. Any other use of it, including commercial, personal, or non-educational use, is not accepted!</b>
+*This project is intended for educational/persoanl purposes only. Any other use, including commercial or non-educational use, is not accepted!*
 
 This is a PHP script that collects V2Ray subscription links from various Channels and saves them to different files based on their protocol type (VMess, VLess, Trojan, and Shadowsocks).
 
-## Instructions & Usage
-
-Just import the following subscription link into the corresponding client. Use a client that at least support ss + vless + vmess + trojan.
-
-| CONFIG TYPE | NORMAL SUBSCRIPTION | BASE64 SUBSCRIPTION | CLASH SUBSCRIPTION | CLASH.Meta SUBSCRIPTION |
-|---|---|---|---|---|
-| MIX of ALL | [NORMAL SUBSCRIPTION](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/mix) | [BASE64 SUBSCRIPTION](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/mix_base64) | [CLASH SUBSCRIPTION](https://github.com/yebekhe/TelegramV2rayCollector/raw/main/clash/mix.yml) | [CLASH.Meta SUBSCRIPTION](https://github.com/yebekhe/TelegramV2rayCollector/raw/main/meta/mix.yml) |
-| VMESS | [NORMAL SUBSCRIPTION](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/vmess) | [BASE64 SUBSCRIPTION](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/vmess_base64) | [CLASH SUBSCRIPTION](https://github.com/yebekhe/TelegramV2rayCollector/raw/main/clash/vmess.yml) | [CLASH.Meta SUBSCRIPTION](https://github.com/yebekhe/TelegramV2rayCollector/raw/main/meta/vmess.yml) |
-| VLESS | [NORMAL SUBSCRIPTION](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/vless) | [BASE64 SUBSCRIPTION](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/vless_base64) | - | [CLASH.Meta SUBSCRIPTION](https://github.com/yebekhe/TelegramV2rayCollector/raw/main/meta/vless.yml) |
-| REALITY | [NORMAL SUBSCRIPTION](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/reality) | [BASE64 SUBSCRIPTION](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/reality_base64) | - | [CLASH.Meta SUBSCRIPTION](https://github.com/yebekhe/TelegramV2rayCollector/raw/main/meta/reality.yml) |
-| TROJAN | [NORMAL SUBSCRIPTION](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/trojan) | [BASE64 SUBSCRIPTION](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/trojan_base64) | [CLASH SUBSCRIPTION](https://github.com/yebekhe/TelegramV2rayCollector/raw/main/clash/trojan.yml) | [CLASH.Meta SUBSCRIPTION](https://github.com/yebekhe/TelegramV2rayCollector/raw/main/meta/trojan.yml) |
-| ShadowSocks | [NORMAL SUBSCRIPTION](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/shadowsocks) | [BASE64 SUBSCRIPTION](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/shadowsocks_base64) | [CLASH SUBSCRIPTION](https://github.com/yebekhe/TelegramV2rayCollector/raw/main/clash/shadowsocks.yml) | [CLASH.Meta SUBSCRIPTION](https://github.com/yebekhe/TelegramV2rayCollector/raw/main/meta/shadowsocks.yml) |
-
-## Manual Subs Conversion
-- If your client does not support the formats that provided here use below services to convert them to your client format (like surfboard)
-> Services for online sub conversion:
-- [v2rayse](https://v2rayse.com/en/node-convert)
-- [sub-web-modify](https://sub.v1.mk/)
-- [bianyuan](https://bianyuan.xyz/)  
-
-- **If you don't like the groups and rules that are already set, you can simply use bianyuan API like this (ONLY FOR BASE64 SUBSCRIPTION)::**  
-> don't use this API for your personal subs! Pls run the subconverter locally
-```
-https://pub-api-1.bianyuan.xyz/sub?target=(OutputFormat)&url=(SubUrl)&insert=false
-
-For Example:
-(OutputFormat) = clash
-(SubUrl) = https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/mix_base64
-
-https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/mix_base64&insert=false
-
-Now you can use the link above to import the subs into your client
-```
 ## NODE Sources
 This project currently utilizes Channels as the source of v2ray nodes.
 
@@ -68,10 +34,6 @@ Channels utilized in this Project:
 | [vpn_tehran](https://t.me/vpn_tehran) | [v2_team](https://t.me/v2_team) | [AlienVPN402](https://t.me/AlienVPN402) | [V2rayngninja](https://t.me/V2rayngninja) |
 | [iSegaro](https://t.me/iSegaro) | [bright_vpn](https://t.me/bright_vpn) | [talentvpn](https://t.me/talentvpn) | [proxystore11](https://t.me/proxystore11) |
 | [yaney_01](https://t.me/yaney_01) | [rayvps](https://t.me/rayvps) | [free1_vpn](https://t.me/free1_vpn) | [Parsashonam](https://t.me/Parsashonam) |
-
-
-## Contribution
-If you have Channel and you want to add it to this project or you know Channels that can be used in this project you can ask for addition in Issues.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
