@@ -9,14 +9,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Code
-        uses: actions/checkout@v2
-      
-      - name: Setup PHP
-        uses: shivammathur/setup-php@v2
+      - name: Setup PHP Action
+        uses: shivammathur/setup-php@2.25.4
         with:
-          php-version: '8.2'
-          
+          php-version: '8.1'
+
       - name: Execute PHP script
         run: |
           php collector.php
