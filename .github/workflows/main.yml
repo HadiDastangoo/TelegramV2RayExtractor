@@ -1,4 +1,4 @@
-name: "CONFIG COLLECTOR"
+name: "Config Extractor"
 
 on:
   workflow_dispatch:
