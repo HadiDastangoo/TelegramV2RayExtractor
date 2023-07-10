@@ -8,7 +8,7 @@ ini_set('error_log', 'errors.log');
 date_default_timezone_set("Asia/Tehran");
 
 // default directories (with trailing '/')
-define('SUB_DIR',               'sub/');
+define('SUB_DIR',               'subscriptions/');
 define('CHANNELS_DIR',          'channels/');
 define('CHANNELS_ASSETS_DIR',   'channels/assets/');
 define('CRON_LOG_FILE',          'log');
