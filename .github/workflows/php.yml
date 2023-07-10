@@ -3,7 +3,7 @@ name: "CONFIG COLLECTOR"
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/120 * * * *'
+    - cron: '*/10 * * * *'
     
 jobs:
   build:
@@ -15,14 +15,14 @@ jobs:
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
         with:
-          php-version: '7.4'
+          php-version: '8.2'
           
       - name: Execute PHP script
         run: |
-          php collect.php
-          git config --global user.email "yebekhe@gmail.com"
-          git config --global user.name "yebekhe"
+          php collector.php
+          git config --global user.email "h.dastangoo@gmail.com"
+          git config --global user.name "HadiDastangoo"
           git config credential.helper store
           git add -A
-          git commit -m "🚀 Servers Updated - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
+          git commit -m "✔ Servers Updated - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
           git push
