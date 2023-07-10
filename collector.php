@@ -11,6 +11,9 @@ include 'functions.php';
 include CHANNELS_DIR . 'channels.php';
 // include CHANNELS_DIR . 'channels_sample.php';
 
+// set timezone
+date_default_timezone_set(TIME_ZONE);
+
 // check channels directory
 if ( !file_exists( CHANNELS_DIR ) )
     mkdir( CHANNELS_DIR ) or die('Error making directory (Line: ' . __LINE__ . ')');
