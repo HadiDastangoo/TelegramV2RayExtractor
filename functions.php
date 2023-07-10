@@ -10,10 +10,10 @@ function compare_time( $a, $b )
 	return ($a_time > $b_time) ? -1 : 1;
 }
 
-function convert_to_iran_time( $utc_timestamp )
+function convert_to_timezone( $utc_timestamp, $timezone = 'Asia/Tehran' )
 {
 	$utc_datetime = new DateTime( $utc_timestamp );
-	$utc_datetime->setTimezone(new DateTimeZone("Asia/Tehran"));
+	$utc_datetime->setTimezone(new DateTimeZone( $timezone ));
 	return $utc_datetime->format("Y-m-d H:i:s");
 }
 
