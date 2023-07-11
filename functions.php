@@ -21,14 +21,14 @@ function create_config_name( $channel, $flag, $ping, $type = null )
 {
     $subscripts = array('₀', '₁', '₂', '₃', '₄', '₅', '₆', '₇', '₈', '₉');
     
-    // create unique id from date/time & 3digits random number & ping
-    $id = str_replace( range(0, 9), $subscripts, date("Y₋m₋d__H₋i₋s___") . $ping);
+    // create unique id from date/time
+    $id = str_replace( range(0, 9), $subscripts, date("Y₋m₋d__H₋i₋s") );
 
     // flag
     $flag = is_null($flag) ? "🚩" : $flag;
 
     // final config name
-    $config_name = $flag . " @$channel "  . ( $type === 'reality' ? ' • 🆁 Reality' : '' ) . " • $id";
+    $config_name =  "$flag @$channel" . ( $type === 'reality' ? ' • 🆁 Reality ' : ' ' ) . "• $id";
     return $config_name;
 }
 
