@@ -158,15 +158,19 @@ echo "\n" . str_repeat('-', 50) . "\n";
 echo "Total:\t" . count(explode("\n", $fixed_mix)) . "\t(" . ( count($mix_array) - count(explode("\n", $fixed_mix)) ) . " duplicates merged)";
 echo "\n" . str_repeat('=', 50) . "\n";
 echo "\n";
-// print_r( $fixed_mix );
 
 
 
 // ******************** Log ********************
 
-$sapi_name = php_sapi_name();
-$statFile = fopen( CRON_LOG_FILE, "a+" ) or die('Error openning log file (line:' . __LINE__ . ')');
-$endProcess = date('Y-m-d H:i:s');
-$log = "$startProcess\t$endProcess\t" . count($mix_array) . "\t" . count(explode("\n", $fixed_mix)) . "\t$sapi_name\n";
-fwrite( $statFile, $log );
-fclose( $statFile );
+if ( CRON_LOG_ENABLED )
+{
+    $sapi_name = php_sapi_name();
+    $statFile = fopen( CRON_LOG_FILE, "a+" ) or die('Error openning log file (line:' . __LINE__ . ')');
+    $endProcess = date('Y-m-d H:i:s');
+    $log = "$startProcess\t$endProcess\t" . count($mix_array) . "\t" . count(explode("\n", $fixed_mix)) . "\t$sapi_name\n";
+    fwrite( $statFile, $log );
+    fclose( $statFile );
+}
+
+?>
