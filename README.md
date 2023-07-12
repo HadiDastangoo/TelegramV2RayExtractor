@@ -5,7 +5,7 @@ This is a PHP script that extracts V2Ray configs from various Telegram public ch
 **Note: This project is intended for educational/persoanl purposes only. Any other use, including commercial or non-educational use, is not accepted!**
 
 ## Usage
-You can use this project in a self-hosted server (shared hosting with minimum requirements, *out of Iran* that supports PHP (Access to Telegram is not available on many hosting providers within Iran) and has access to `Cron Jobs` to define scheduled extraction.
+You can use this project in a self-hosted server or shared hosting with minimum requirements, *out of Iran* that supports PHP (Access to Telegram is not available on many hosting providers within Iran) and has access to `Cron Jobs` to define scheduled extraction.
 
 **Notes:**
 * Default parameters are defined in `config.php`.
