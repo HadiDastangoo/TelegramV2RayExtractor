@@ -9,7 +9,6 @@ $startProcess = date('Y-m-d H:i:s');
 include 'config.php';
 include 'functions.php';
 include CHANNELS_DIR . 'channels.php';
-// include CHANNELS_DIR . 'channels_sample.php';
 
 // set timezone
 date_default_timezone_set(TIME_ZONE);
