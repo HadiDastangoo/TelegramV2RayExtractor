@@ -9,4 +9,5 @@ define('TIME_ZONE',				'Asia/Tehran');
 define('SUB_DIR',				'subscriptions/');
 define('CHANNELS_DIR',			'channels/');
 define('CHANNELS_ASSETS_DIR',	'channels/assets/');
+define('CRON_LOG_ENABLED',		false);
 define('CRON_LOG_FILE',			'log.txt');
