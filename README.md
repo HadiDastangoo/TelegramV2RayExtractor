@@ -1,8 +1,21 @@
 # Telegram V2ray Extractor
 
-*This project is intended for educational/persoanl purposes only. Any other use, including commercial or non-educational use, is not accepted!*
+This is a PHP script that extracts V2Ray configs from various Telegram public channels and saves them to different files (commonly called *Subscriptions*) based on their protocol type (VMess, VLESS, Trojan).
 
-This is a PHP script that collects V2Ray subscription links from various Channels and saves them to different files based on their protocol type (VMess, VLess, Trojan, and Shadowsocks).
+**Note: This project is intended for educational/persoanl purposes only. Any other use, including commercial or non-educational use, is not accepted!**
+
+## Usage
+You can use this project in a self-hosted server (shared hosting with minimum requirements, *out of Iran* that supports PHP (Access to Telegram is not available on many hosting providers within Iran) and has access to `Cron Jobs` to define scheduled extraction.
+
+**Notes:**
+* Default parameters are defined in `config.php`.
+* Channels (with supported protocols) are defined as an array in `channels\channels.php`.
+* Croned job log file (`log.txt` as default) logs start/end execution time, total extracted configs (with & without duplicates) and the type of interface between web server and PHP (such as: `cli`, `apache`, `litespeed` and etc.) for test cases. You can enable/disable it from `config.php`.
+* For scheduled execution, after extract project in a custom directory in your host, define custom scheduled task (as: once per hour, or every 2 or 3 hours) in your `Cron Jobs` from your hosting panel as:
+```shell
+php -q /path/to/collector.php
+```
+* It is recommended to change the `collector.php` file to a random name.
 
 ## NODE Sources
 This project currently utilizes Channels as the source of v2ray nodes.
