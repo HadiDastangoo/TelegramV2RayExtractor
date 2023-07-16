@@ -17,22 +17,81 @@ function convert_to_timezone( $utc_timestamp, $timezone = 'Asia/Tehran' )
 	return $utc_datetime->format("Y-m-d H:i:s");
 }
 
-function create_config_name( $channel, $flag, $ping, $type = null )
+/**  Gregorian & Jalali (Hijri_Shamsi,Solar) Date Converter Functions
+Author: JDF.SCR.IR =>> Download Full Version :  http://jdf.scr.ir/jdf
+License: GNU/LGPL _ Open Source & Free :: Version: 2.80 : [2020=1399]
+---------------------------------------------------------------------
+355746=361590-5844 & 361590=(30*33*365)+(30*8) & 5844=(16*365)+(16/4)
+355666=355746-79-1 & 355668=355746-79+1 &  1595=605+990 &  605=621-16
+990=30*33 & 12053=(365*33)+(32/4) & 36524=(365*100)+(100/4)-(100/100)
+1461=(365*4)+(4/4) & 146097=(365*400)+(400/4)-(400/100)+(400/400)  */
+function gregorian_to_jalali( $gy, $gm, $gd )
+{
+    $g_d_m = array(0, 31, 59, 90, 120, 151, 181, 212, 243, 273, 304, 334);
+    $gy2 = ($gm > 2) ? ($gy + 1) : $gy;
+    $days = 355666 + (365 * $gy) + ((int)(($gy2 + 3) / 4)) - ((int)(($gy2 + 99) / 100)) + ((int)(($gy2 + 399) / 400)) + $gd + $g_d_m[$gm - 1];
+    $jy = -1595 + (33 * ((int)($days / 12053)));
+    $days %= 12053;
+    $jy += 4 * ((int)($days / 1461));
+    $days %= 1461;
+    if ( $days > 365 ) {
+        $jy += (int)(($days - 1) / 365);
+        $days = ($days - 1) % 365;
+    }
+    if ($days < 186) {
+        $jm = 1 + (int)($days / 31);
+        $jd = 1 + ($days % 31);
+    }
+    else {
+        $jm = 7 + (int)(($days - 186) / 30);
+        $jd = 1 + (($days - 186) % 30);
+    }
+    $jm = strlen($jm) == 1 ? "0$jm" : $jm;
+    $jd = ($jd < 10) ? "0$jd" : $jd;
+    return array($jy, $jm, $jd);
+}
+
+function create_config_name( $channel, $flag, $ping, $custom_id = null, $type = null, $tunnel = false )
 {
     $subscripts = array('₀', '₁', '₂', '₃', '₄', '₅', '₆', '₇', '₈', '₉');
     
     // create unique id from date/time
-    $id = str_replace( range(0, 9), $subscripts, date("Y₋m₋d__H₋i₋s") );
+    if ( SUB_JALALI_DATE ) {
+        $jdate = gregorian_to_jalali( date("Y"), date("m"), date("d") );
+        $date = "$jdate[0]₋$jdate[1]₋$jdate[2]__";
+    }
+    else {
+        $date = date("Y₋m₋d__");
+    }
+
+    $id = ( is_null($custom_id) ? '' : $custom_id . '-') . str_replace( range(0, 9), $subscripts, $date . date("H₋i₋s") );
 
     // flag
     $flag = is_null($flag) ? "🚩" : $flag;
+    
+    // reality check
+    $reality = ( $type === 'reality' ) ? true : false;
+    
+    // prepare type text
+    if ( $reality && $tunnel ) {
+        $typetext = ' • 🆁eality | 🆃unnel';
+    }
+    elseif ( $reality ) {
+        $typetext = ' • 🆁eality';
+    }
+    elseif ( $tunnel ) {
+        $typetext = ' • 🆃unnel';
+    }
+    else {
+        $typetext = '';
+    }
 
-    // final config name
-    $config_name =  "$flag @$channel" . ( $type === 'reality' ? ' • 🆁 Reality ' : ' ' ) . "• $id";
+    // final config name    
+    $config_name =  "$flag @$channel{$typetext} • $id";
     return $config_name;
 }
 
-function get_config($channel, $type)
+function get_config($channel, $type, $id)
 {
     $final_data = [];
     $get = file_get_contents("https://t.me/s/" . $channel);
@@ -74,6 +133,7 @@ function get_config($channel, $type)
     preg_match_all($pattern_config, $get, $configs);
     $key_limit = count($configs[1]) - 3;
 
+    $i = 0;
     foreach ( $configs[1] as $key => $config )
     {
         if ( $key > $key_limit )
@@ -102,6 +162,8 @@ function get_config($channel, $type)
                     // change type if it is Reality
                     $type = stripos($config, "reality") ? "reality" : $type;
                 }
+                
+                // get port
                 $port = $the_config["port"];
 
                 // check ping base on IP & port
@@ -109,18 +171,21 @@ function get_config($channel, $type)
 
                 if ( $ping )
                 {
+                    $i++;
                     $ip_info = ip_info( $ip );
+                    $country = isset( $ip_info["country"] ) ? $ip_info["country"] : null;
+                    $tunnel = ( strtoupper( $country ) == 'IR' ) ? true : false;
                     $flag = isset( $ip_info["country"] ) ? get_flag( $ip_info["country"] ) : null;
+                    $custom_id = "$id-$i";
                     
                     if ( $type == 'vmess' )
                     {
-                        $the_config["ps"] = create_config_name( $channel, $flag, $ping, $type );
+                        $the_config["ps"] = create_config_name( $channel, $flag, $ping, $custom_id, $type, $tunnel );
                         $final_config = encode_vmess($the_config);
-
                     }
                     else
                     {
-                        $the_config["hash"] = create_config_name( $channel, $flag, $ping, $type );
+                        $the_config["hash"] = create_config_name( $channel, $flag, $ping, $custom_id, $type, $tunnel );
                         $final_config = build_proxy_url($the_config, $type);
                     }
                     
@@ -424,6 +489,20 @@ function get_reality($input)
     foreach ( $array as $item )
     {
         if ( stripos($item, "reality") )
+        {
+            $output .= $output === "" ? $item : "\n$item";
+        }
+    }
+    return $output;
+}
+
+function get_tunnel($input)
+{
+    $array = explode("\n", $input);
+    $output = "";
+    foreach ( $array as $item )
+    {
+        if ( stripos($item, "🆃unnel") )
         {
             $output .= $output === "" ? $item : "\n$item";
         }
