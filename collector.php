@@ -23,12 +23,16 @@ $all_types = ['vmess', 'vless', 'trojan'];
 
 // ******************** <Extraction> ********************
 // extract configs
+$i = 0;
 foreach ( $channels as $channel => $types )
 {
     for ( $type_count = 0; $type_count < count($types); $type_count++ )
     {
         if ( in_array( $types[$type_count], $all_types ) )
-            $mix[$types[$type_count]][] = @get_config($channel, $types[$type_count]);
+        {
+            $i++;
+            $mix[$types[$type_count]][] = @get_config($channel, $types[$type_count], $i);
+        }
     }
 }
 // ******************** </Extraction> ********************
@@ -90,6 +94,7 @@ $fixed_vless = remove_duplicate_xray( str_replace("&amp;", "&", $vless), "vless"
 $fixed_reality = get_reality( $fixed_vless );
 $fixed_trojan = remove_duplicate_xray( str_replace("&amp;", "&", $trojan), "trojan");
 $fixed_mix = "$fixed_vmess\n$fixed_vless\n$fixed_trojan";
+$fixed_tunnel = get_tunnel( $fixed_mix );
 
 
 // ******************** Create Subscription ********************
@@ -103,6 +108,7 @@ file_put_contents( SUB_DIR . "vmess", $fixed_vmess);
 file_put_contents( SUB_DIR . "vless", $fixed_vless);
 file_put_contents( SUB_DIR . "reality", $fixed_reality);
 file_put_contents( SUB_DIR . "trojan", $fixed_trojan);
+file_put_contents( SUB_DIR . "tunnel", $fixed_tunnel);
 file_put_contents( SUB_DIR . "mix", $fixed_mix);
 
 // base64 version
@@ -110,8 +116,8 @@ file_put_contents( SUB_DIR . "vmess_base64", base64_encode($fixed_vmess));
 file_put_contents( SUB_DIR . "vless_base64", base64_encode($fixed_vless));
 file_put_contents( SUB_DIR . "reality_base64", base64_encode($fixed_reality));
 file_put_contents( SUB_DIR . "trojan_base64", base64_encode($fixed_trojan));
+file_put_contents( SUB_DIR . "tunnel_base64", base64_encode($fixed_tunnel));
 file_put_contents( SUB_DIR . "mix_base64", base64_encode($fixed_mix));
-
 
 
 // ******************** Update Channels Data ********************
@@ -151,6 +157,8 @@ echo "\n" . str_repeat('-', 50) . "\n";
 echo "VLESS:\t" . count($vless_array) . "\t(Reality: " . count( explode("\n", $fixed_reality) ) . ")";
 echo "\n" . str_repeat('-', 50) . "\n";
 echo "Trojan:\t" . count($trojan_array);
+echo "\n" . str_repeat('-=', 25) . "\n";
+echo "Tunnel:\t" . count( explode("\n", $fixed_tunnel) );
 echo "\n" . str_repeat('=', 50) . "\n";
 echo "Sum:\t" . count($mix_array);
 echo "\n" . str_repeat('-', 50) . "\n";
