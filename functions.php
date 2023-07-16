@@ -64,7 +64,7 @@ function create_config_name( $channel, $flag, $ping, $custom_id = null, $type = 
         $date = date("Y₋m₋d__");
     }
 
-    $id = ( is_null($custom_id) ? '' : $custom_id . '-') . str_replace( range(0, 9), $subscripts, $date . date("H₋i₋s") );
+    $id = ( is_null($custom_id) ? '' : ('[' . $custom_id . '] ') ) . str_replace( range(0, 9), $subscripts, $date . date("H₋i₋s") );
 
     // flag
     $flag = is_null($flag) ? "🚩" : $flag;
