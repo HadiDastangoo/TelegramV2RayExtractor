@@ -70,3 +70,4 @@
 [22-Jul-2023 13:37:41 Asia/Tehran] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 141
 [22-Jul-2023 14:37:23 Asia/Tehran] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 141
 [22-Jul-2023 15:43:58 Asia/Tehran] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 141
+[22-Jul-2023 16:40:52 Asia/Tehran] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 141
