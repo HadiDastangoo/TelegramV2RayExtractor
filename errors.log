@@ -171,3 +171,5 @@
 [25-Jul-2023 07:45:01 Asia/Tehran] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 141
 [25-Jul-2023 08:37:24 Asia/Tehran] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 141
 [25-Jul-2023 08:38:02 Asia/Tehran] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 141
+[25-Jul-2023 09:42:50 Asia/Tehran] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 141
+[25-Jul-2023 09:43:21 Asia/Tehran] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 141
