@@ -136,12 +136,21 @@ foreach ( $channels as $channel => $data_array )
     // get channel property
     preg_match($image_pattern, $html , $image_match);
     preg_match($title_pattern, $html , $title_match);
-    
-    // put logo into channel directory and set channel property into array
-    file_put_contents( CHANNELS_ASSETS_DIR . $channel . ".jpg", file_get_contents($image_match[1]));
+
+	// set channel property into array
     $channel_array[$channel]['types'] = $data_array;
     $channel_array[$channel]['title'] = $title_match[1];
-    $channel_array[$channel]['logo'] = "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/" . $channel . ".jpg";
+
+    // put logo into channels' assets directory (if channel profile image is set)
+    if ( !empty($image_match[1]) )
+	{
+		file_put_contents( CHANNELS_ASSETS_DIR . $channel . ".jpg", file_get_contents($image_match[1]));
+    	$channel_array[$channel]['logo'] = "https://raw.githubusercontent.com/HadiDastangoo/TelegramV2RayExtractor/main/channels/assets/" . $channel . ".jpg";
+	}
+	else
+	{
+		$channel_array[$channel]['logo'] = null;
+	}
 }
 
 // update channels data into json
