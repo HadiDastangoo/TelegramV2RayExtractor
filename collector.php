@@ -123,6 +123,7 @@ file_put_contents( SUB_DIR . "mix_base64", base64_encode($fixed_mix));
 // ******************** Update Channels Data ********************
 
 $channel_array = [];
+$channel_assets_url = "https://raw.githubusercontent.com/HadiDastangoo/TelegramV2RayExtractor/main/" . CHANNELS_ASSETS_DIR;
 
 foreach ( $channels as $channel => $data_array )
 {
@@ -140,12 +141,15 @@ foreach ( $channels as $channel => $data_array )
 	// set channel property into array
     $channel_array[$channel]['types'] = $data_array;
     $channel_array[$channel]['title'] = $title_match[1];
-
+	
     // put logo into channels' assets directory (if channel profile image is set)
     if ( !empty($image_match[1]) )
 	{
-		file_put_contents( CHANNELS_ASSETS_DIR . $channel . ".jpg", file_get_contents($image_match[1]));
-    	$channel_array[$channel]['logo'] = "https://raw.githubusercontent.com/HadiDastangoo/TelegramV2RayExtractor/main/channels/assets/" . $channel . ".jpg";
+		$channel_logo = @file_get_contents($image_match[1]);
+		if ( $channel_logo )
+			file_put_contents( CHANNELS_ASSETS_DIR . $channel . ".jpg", $channel_logo );
+
+		$channel_array[$channel]['logo'] = $channel_logo ? ( $channel_assets_url . $channel . ".jpg" ) : null;
 	}
 	else
 	{
