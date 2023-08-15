@@ -13,7 +13,7 @@
             "ss"
         ],
         "title": "Shadowsocks Outline Vmess Open VPN",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/free4allVPN.jpg"
+        "logo": null
     },
     "PrivateVPNs": {
         "types": [
@@ -281,7 +281,7 @@
             "vless"
         ],
         "title": "IRVLESS",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/xrayproxy.jpg"
+        "logo": null
     },
     "Proxy_PJ": {
         "types": [
@@ -412,7 +412,7 @@
             "vless"
         ],
         "title": "MehradLearn | \u062a\u0644\u06af\u0631\u0627\u0645 \u067e\u0631\u0645\u06cc\u0648\u0645 | \u0627\u06a9\u0633\u067e\u0631\u0633 VPN | \u0627\u06cc\u0646\u062a\u0631\u0646\u062a \u0622\u0632\u0627\u062f | Spotify",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/MehradLearn.jpg"
+        "logo": null
     },
     "SafeNet_Server": {
         "types": [
