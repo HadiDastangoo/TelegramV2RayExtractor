@@ -4,60 +4,60 @@
             "vmess",
             "vless"
         ],
-        "title": "v2rayNG | Proxy | \u0631\u0641\u0639 \u0641\u06cc\u0644\u062a\u0631",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/V2rayNGn.jpg"
+        "title": null,
+        "logo": null
     },
     "free4allVPN": {
         "types": [
             "vmess",
             "ss"
         ],
-        "title": "Shadowsocks Outline Vmess Open VPN",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/free4allVPN.jpg"
+        "title": null,
+        "logo": null
     },
     "PrivateVPNs": {
         "types": [
             "trojan"
         ],
-        "title": "V2ray | Vmess | Trojan | Vless",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/PrivateVPNs.jpg"
+        "title": null,
+        "logo": null
     },
     "DirectVPN": {
         "types": [
             "trojan"
         ],
-        "title": "V2ray VPN",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/DirectVPN.jpg"
+        "title": null,
+        "logo": null
     },
     "v2ray_outlineir": {
         "types": [
             "vmess"
         ],
-        "title": "trojan vmess vless",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/v2ray_outlineir.jpg"
+        "title": null,
+        "logo": null
     },
     "NetAccount": {
         "types": [
             "trojan"
         ],
-        "title": "Net Account | \u0646\u062a \u0627\u0643\u0627\u0646\u062a",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/NetAccount.jpg"
+        "title": null,
+        "logo": null
     },
     "oneclickvpnkeys": {
         "types": [
             "vmess",
             "trojan"
         ],
-        "title": "OneClick VPN\ud83d\udd11v2rayNG\ud83d\udd11Matsuri\ud83d\udd11SagerNet\ud83d\udd11",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/oneclickvpnkeys.jpg"
+        "title": null,
+        "logo": null
     },
     "daorzadannet": {
         "types": [
             "vmess",
             "vless"
         ],
-        "title": "\u0641\u06cc\u0644\u062a\u0631\u0634\u06a9\u0646\u060c\u0622\u0645\u0648\u0632\u0634 \u0647\u0627\u06cc \u062f\u0648\u0631 \u0632\u062f\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u062a \u0645\u0644\u06cc\u060c \u067e\u0631\u0648\u06a9\u0633\u06cc\u060c\u0648\u0627\u062a\u0633\u0627\u067e\u060c\u06a9\u0627\u0646\u0641\u06cc\u06af\u060c\u06a9\u0627\u0633\u062a\u0648\u0645\u060c \u0627\u0646\u062c\u06a9\u062a\u0648\u0631\u060c\u0627\u06cc\u0646\u062a\u0631\u0646\u062a \u0628\u06cc\u0646 \u0627\u0644\u0645\u0644\u0644\u060c\u0646\u062a \u0645\u0644\u06cc\u060c\u062a\u0644\u06af\u0631\u0627\u0645\u060c\u0627\u06cc\u0646\u0633\u062a\u0627\u06af\u0631\u0627\u0645\u060c\u06cc\u0648\u062a\u06cc\u0648\u0628",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/daorzadannet.jpg"
+        "title": null,
+        "logo": null
     },
     "Outline_Vpn": {
         "types": [
@@ -70,8 +70,8 @@
         "types": [
             "vless"
         ],
-        "title": "VPN\u206a\u206c\u206e\u206e\u206e\u206e \u206a\u206c\u206e\u206e\u206e\u206e \u206a\u206c\u206e\u206e\u206e\u206eXW",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/vpn_xw.jpg"
+        "title": null,
+        "logo": null
     },
     "prrofile_purple": {
         "types": [
