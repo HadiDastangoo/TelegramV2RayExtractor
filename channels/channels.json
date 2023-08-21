@@ -12,8 +12,8 @@
             "vmess",
             "ss"
         ],
-        "title": "Shadowsocks Outline Vmess Open VPN",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/free4allVPN.jpg"
+        "title": null,
+        "logo": null
     },
     "PrivateVPNs": {
         "types": [
