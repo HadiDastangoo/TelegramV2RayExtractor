@@ -4,8 +4,8 @@
             "vmess",
             "vless"
         ],
-        "title": "v2rayNG | Proxy | \u0631\u0641\u0639 \u0641\u06cc\u0644\u062a\u0631",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/V2rayNGn.jpg"
+        "title": null,
+        "logo": null
     },
     "free4allVPN": {
         "types": [
@@ -534,7 +534,7 @@
             "ss"
         ],
         "title": "Yaney\u79d1\u6280\u9891\u9053",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/yaney_01.jpg"
     },
     "rayvps": {
         "types": [
