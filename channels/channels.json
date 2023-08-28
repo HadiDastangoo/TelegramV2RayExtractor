@@ -534,7 +534,7 @@
             "ss"
         ],
         "title": "Yaney\u79d1\u6280\u9891\u9053",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/yaney_01.jpg"
+        "logo": null
     },
     "rayvps": {
         "types": [
@@ -672,22 +672,22 @@
         "types": [
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "V2ray",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/rxv2ray.jpg"
     },
     "Capital_NET": {
         "types": [
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "\u0131ll\u0131ll\u0131 \ud835\uddd6\ud835\uddee\ud835\uddfd\ud835\uddf6\ud835\ude01\ud835\uddee\ud835\uddf9\u2115\ud835\udd3c\ud835\udd4b \u0131ll\u0131ll\u0131",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/Capital_NET.jpg"
     },
     "VpnFreeSec": {
         "types": [
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "Mamlekat | \u0627\u06cc\u0646\u062a\u0631\u0646\u062a \u0622\u0632\u0627\u062f",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/VpnFreeSec.jpg"
     },
     "lightning6": {
         "types": [
@@ -700,8 +700,8 @@
         "types": [
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "\u0648\u0628 \u0634\u06a9\u0646 | WebShecan",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/WebShecan.jpg"
     },
     "v2Line": {
         "types": [
@@ -715,22 +715,22 @@
             "vmess",
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "IRAN VMESS VPN \ud83c\uddee\ud83c\uddf7",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/vmessiran.jpg"
     },
     "Configforvpn01": {
         "types": [
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "Config for \ud835\uddb5\ud835\uddaf\ud835\uddad",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/Configforvpn01.jpg"
     },
     "God_CONFIG": {
         "types": [
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "\ud835\ude42\ud835\ude4a\ud835\ude3f \ud835\ude3e\ud835\ude4a\ud835\ude49\ud835\ude41\ud835\ude44\ud835\ude42 | \u06af\u0627\u062f \u06a9\u0627\u0646\u0641\u06cc\u06af",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/God_CONFIG.jpg"
     },
     "Awlix_ir": {
         "types": [
