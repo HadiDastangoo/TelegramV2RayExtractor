@@ -171,8 +171,8 @@
         "types": [
             "vmess"
         ],
-        "title": "Hashmak",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/hashmakvpn.jpg"
+        "title": "hashmakVpn",
+        "logo": null
     },
     "Helix_Servers": {
         "types": [
