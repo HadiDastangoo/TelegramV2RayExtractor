@@ -41,8 +41,8 @@
         "types": [
             "vless"
         ],
-        "title": "\u0131ll\u0131ll\u0131 \ud835\uddd6\ud835\uddee\ud835\uddfd\ud835\uddf6\ud835\ude01\ud835\uddee\ud835\uddf9\u2115\ud835\udd3c\ud835\udd4b \u0131ll\u0131ll\u0131",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/Capital_NET.jpg"
+        "title": null,
+        "logo": null
     },
     "CloudCityy": {
         "types": [
@@ -57,8 +57,8 @@
             "vless",
             "trojan"
         ],
-        "title": "\ud835\ude3e\ud835\ude64\ud835\ude63\ud835\ude5b\ud835\ude5e\ud835\ude5c\ud835\ude68\ud835\ude43\ud835\ude6a\ud835\ude57",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/ConfigsHUB.jpg"
+        "title": null,
+        "logo": null
     },
     "Cov2ray": {
         "types": [
@@ -87,8 +87,8 @@
         "types": [
             "vless"
         ],
-        "title": "Digiv2ray | vpn",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/DigiV2ray.jpg"
+        "title": null,
+        "logo": null
     },
     "DirectVPN": {
         "types": [
