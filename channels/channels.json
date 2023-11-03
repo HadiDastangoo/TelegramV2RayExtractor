@@ -48,8 +48,8 @@
         "types": [
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "Cloud City \u2601\ufe0f \ud83c\uddee\ud83c\uddf7",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/CloudCityy.jpg"
     },
     "ConfigsHUB": {
         "types": [
@@ -57,15 +57,15 @@
             "vless",
             "trojan"
         ],
-        "title": null,
-        "logo": null
+        "title": "\ud835\ude3e\ud835\ude64\ud835\ude63\ud835\ude5b\ud835\ude5e\ud835\ude5c\ud835\ude68\ud835\ude43\ud835\ude6a\ud835\ude57",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/ConfigsHUB.jpg"
     },
     "Cov2ray": {
         "types": [
             "vmess"
         ],
-        "title": null,
-        "logo": null
+        "title": "\ud835\udc6a\ud835\udc90\ud835\udc7d\ud835\udfe4\ud835\udc93\ud835\udc82\ud835\udc9a | \ud835\udc6a\ud835\udc90\ud835\udc8f\ud835\udc87\ud835\udc8a\ud835\udc88",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/Cov2ray.jpg"
     },
     "customv2ray": {
         "types": [
