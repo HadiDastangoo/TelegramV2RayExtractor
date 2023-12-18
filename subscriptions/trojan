@@ -1,8 +1,8 @@
-trojan://telegram-id-privatevpns@18.168.232.41:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧 @ConfigsHUB • [11-1] ₁₄₀₂₋₀₉₋₂₇__₂₁₋₃₇₋₅₈
-trojan://telegram-id-directvpn@52.33.63.89:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇺🇸 @DirectVPN • [18-1] ₁₄₀₂₋₀₉₋₂₇__₂₁₋₃₈₋₁₇
-trojan://telegram-id-directvpn@3.139.124.96:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇺🇸 @DirectVPN • [18-2] ₁₄₀₂₋₀₉₋₂₇__₂₁₋₃₈₋₁₇
-trojan://telegram-id-privatevpns@35.181.247.1:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷 @PrivateVPNs • [63-1] ₁₄₀₂₋₀₉₋₂₇__₂₁₋₃₉₋₄₂
-trojan://2bcd4a9d-67eb-40ac-b67c-ba851f1eb5d3@fr1-t.sshmax.xyz:80?headerType=none&security=tls&sni=fr1-t.sshmax.xyz&type=tcp#🇫🇷 @v2ray1_ng • [96-1] ₁₄₀₂₋₀₉₋₂₇__₂₁₋₄₁₋₀₂
-trojan://c0d04c20-99c9-11ee-be8b-1239d0255272@de1.test3.net:443?headerType=none&security=tls&sni=zula.ir&type=tcp#🇩🇪 @v2ray1_ng • [96-2] ₁₄₀₂₋₀₉₋₂₇__₂₁₋₄₁₋₀₂
-trojan://57edfecf-5694-4a34-8072-54a4f0636a62@68.233.121.121:40003?allowInsecure=1#🇨🇦 @yaney_01 • [137-1] ₁₄₀₂₋₀₉₋₂₇__₂₁₋₄₂₋₂₅
-trojan://57edfecf-5694-4a34-8072-54a4f0636a62@64.110.90.224:40003?allowInsecure=1#🇺🇸 @yaney_01 • [137-2] ₁₄₀₂₋₀₉₋₂₇__₂₁₋₄₂₋₂₅
+trojan://telegram-id-directvpn@51.20.11.185:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷 @ConfigsHUB • [11-1] ₁₄₀₂₋₀₉₋₂₇__₂₂₋₃₁₋₅₃
+trojan://telegram-id-directvpn@51.20.197.169:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷 @DirectVPN • [18-1] ₁₄₀₂₋₀₉₋₂₇__₂₂₋₃₂₋₀₅
+trojan://telegram-id-privatevpns@18.168.232.41:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧 @PrivateVPNs • [63-1] ₁₄₀₂₋₀₉₋₂₇__₂₂₋₃₃₋₃₅
+trojan://telegram-id-privatevpns@13.41.112.191:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧 @PrivateVPNs • [63-2] ₁₄₀₂₋₀₉₋₂₇__₂₂₋₃₃₋₃₅
+trojan://2bcd4a9d-67eb-40ac-b67c-ba851f1eb5d3@fr1-t.sshmax.xyz:80?headerType=none&security=tls&sni=fr1-t.sshmax.xyz&type=tcp#🇫🇷 @v2ray1_ng • [96-1] ₁₄₀₂₋₀₉₋₂₇__₂₂₋₃₄₋₂₀
+trojan://c0d04c20-99c9-11ee-be8b-1239d0255272@de1.test3.net:443?headerType=none&security=tls&sni=zula.ir&type=tcp#🇩🇪 @v2ray1_ng • [96-2] ₁₄₀₂₋₀₉₋₂₇__₂₂₋₃₄₋₂₀
+trojan://57edfecf-5694-4a34-8072-54a4f0636a62@68.233.121.121:40003?allowInsecure=1#🇨🇦 @yaney_01 • [137-1] ₁₄₀₂₋₀₉₋₂₇__₂₂₋₃₅₋₁₂
+trojan://57edfecf-5694-4a34-8072-54a4f0636a62@64.110.90.224:40003?allowInsecure=1#🇺🇸 @yaney_01 • [137-2] ₁₄₀₂₋₀₉₋₂₇__₂₂₋₃₅₋₁₂
