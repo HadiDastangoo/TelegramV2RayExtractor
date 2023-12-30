@@ -260,3 +260,18 @@
 [02-Dec-2023 09:45:56 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/VpnFreeSec): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
  in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
 [02-Dec-2023 09:45:56 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[31-Dec-2023 00:38:33 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/Helix_Servers): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[31-Dec-2023 00:38:33 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[31-Dec-2023 00:38:35 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/INIT1984): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[31-Dec-2023 00:38:35 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[31-Dec-2023 00:38:35 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/iP_CF): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[31-Dec-2023 00:38:35 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[31-Dec-2023 00:38:35 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/ipV2Ray): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[31-Dec-2023 00:38:35 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[31-Dec-2023 00:38:36 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/IRN_VPN): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[31-Dec-2023 00:38:36 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143

@@ -178,8 +178,8 @@
         "types": [
             "vless"
         ],
-        "title": "- HELIX -",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/Helix_Servers.jpg"
+        "title": null,
+        "logo": null
     },
     "Hope_Net": {
         "types": [
@@ -192,8 +192,8 @@
         "types": [
             "vless"
         ],
-        "title": "Telegram: Contact @INIT1984",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/INIT1984.jpg"
+        "title": null,
+        "logo": null
     },
     "iP_CF": {
         "types": [
@@ -202,22 +202,22 @@
             "trojan",
             "ss"
         ],
-        "title": "| IP_CF | Channel",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/iP_CF.jpg"
+        "title": null,
+        "logo": null
     },
     "ipV2Ray": {
         "types": [
             "vless"
         ],
-        "title": "v2ray IP",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/ipV2Ray.jpg"
+        "title": null,
+        "logo": null
     },
     "IRN_VPN": {
         "types": [
             "vless"
         ],
-        "title": "I\u200cR\u1de2N\u1de1 V\u200cP\u200cN",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/IRN_VPN.jpg"
+        "title": null,
+        "logo": null
     },
     "iSegaro": {
         "types": [
@@ -539,7 +539,7 @@
             "trojan"
         ],
         "title": "\u1d65\u2082\u1d63\u2090y\u2099G \u1d65\u209a\u2099 | \u0641\u06cc\u0644\u062a\u0631\u0634\u06a9\u0646 \u0631\u0627\u06cc\u06af\u0627\u0646",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/v2ray_vpn_ir.jpg"
     },
     "V2rayCollectorDonate": {
         "types": [
