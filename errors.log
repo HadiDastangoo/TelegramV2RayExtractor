@@ -275,3 +275,26 @@
 [31-Dec-2023 00:38:36 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/IRN_VPN): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
  in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
 [31-Dec-2023 00:38:36 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[11-Jan-2024 02:37:32 Asia/Tehran] PHP Warning:  file_get_contents(): SSL: Connection reset by peer in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[11-Jan-2024 02:37:34 Asia/Tehran] PHP Warning:  file_get_contents(): SSL: Connection reset by peer in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[11-Jan-2024 02:37:43 Asia/Tehran] PHP Warning:  file_get_contents(): SSL: Connection reset by peer in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[11-Jan-2024 02:37:43 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/V2rayNGmat): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[11-Jan-2024 02:37:43 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[11-Jan-2024 02:37:43 Asia/Tehran] PHP Warning:  file_get_contents(): SSL: Connection reset by peer in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[11-Jan-2024 02:37:45 Asia/Tehran] PHP Warning:  file_get_contents(): SSL: Connection reset by peer in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[11-Jan-2024 02:37:47 Asia/Tehran] PHP Warning:  file_get_contents(): SSL: Connection reset by peer in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[11-Jan-2024 02:37:47 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/vmess_vless_v2rayng): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[11-Jan-2024 02:37:47 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[11-Jan-2024 02:37:49 Asia/Tehran] PHP Warning:  file_get_contents(): SSL: Connection reset by peer in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[11-Jan-2024 02:37:50 Asia/Tehran] PHP Warning:  file_get_contents(): SSL: Connection reset by peer in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[11-Jan-2024 02:37:50 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/VPNCUSTOMIZE): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[11-Jan-2024 02:37:50 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[11-Jan-2024 02:37:51 Asia/Tehran] PHP Warning:  file_get_contents(): SSL: Connection reset by peer in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[11-Jan-2024 02:37:51 Asia/Tehran] PHP Warning:  file_get_contents(): SSL: Connection reset by peer in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[11-Jan-2024 02:37:52 Asia/Tehran] PHP Warning:  file_get_contents(): SSL: Connection reset by peer in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[11-Jan-2024 02:37:52 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/VpnProSec): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[11-Jan-2024 02:37:52 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[11-Jan-2024 02:37:54 Asia/Tehran] PHP Warning:  file_get_contents(): SSL: Connection reset by peer in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[11-Jan-2024 02:37:55 Asia/Tehran] PHP Warning:  file_get_contents(): SSL: Connection reset by peer in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[11-Jan-2024 02:37:55 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/zen_cloud): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[11-Jan-2024 02:37:55 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
