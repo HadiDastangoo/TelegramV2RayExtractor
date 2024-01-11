@@ -584,8 +584,8 @@
         "types": [
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "\ud835\udc152\ud835\udc11\ud835\udc00\ud835\udc18\ud835\udc0d\ud835\udc06\ud835\udc0c\ud835\udc00\ud835\udc13",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/V2rayNGmat.jpg"
     },
     "V2rayNGn": {
         "types": [
@@ -640,7 +640,7 @@
             "trojan",
             "ss"
         ],
-        "title": null,
+        "title": ".",
         "logo": null
     },
     "vmessorg": {
@@ -671,8 +671,8 @@
         "types": [
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "\ud835\uddb5\ud835\uddaf\ud835\uddad | \ud835\udda2\ud835\uddb4\ud835\uddb2\ud835\uddb3\ud835\uddae\ud835\uddac\ud835\udda8\ud835\uddb9\ud835\udda4",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/VPNCUSTOMIZE.jpg"
     },
     "VpnFreeSec": {
         "types": [
@@ -692,8 +692,8 @@
         "types": [
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "@VpnProSec",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/VpnProSec.jpg"
     },
     "WebShecan": {
         "types": [
@@ -723,7 +723,7 @@
             "vmess",
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "Zen Cloud",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/zen_cloud.jpg"
     }
 }
