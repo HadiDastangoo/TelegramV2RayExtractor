@@ -409,23 +409,23 @@
         "types": [
             "vmess"
         ],
-        "title": "RoyalVPN",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/Royalping_ir.jpg"
+        "title": null,
+        "logo": null
     },
     "rxv2ray": {
         "types": [
             "vless"
         ],
-        "title": "RxV2ray",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/rxv2ray.jpg"
+        "title": null,
+        "logo": null
     },
     "SafeNet_Server": {
         "types": [
             "vmess",
             "vless"
         ],
-        "title": "SafeNet Server",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/SafeNet_Server.jpg"
+        "title": null,
+        "logo": null
     },
     "serveriran11": {
         "types": [
