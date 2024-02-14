@@ -27,7 +27,7 @@
             "vless"
         ],
         "title": "Bestv2rang",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/BestV2rang.jpg"
     },
     "bright_vpn": {
         "types": [
@@ -354,7 +354,7 @@
             "trojan"
         ],
         "title": "V2ray | Vmess | Trojan | Vless",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/PrivateVPNs.jpg"
+        "logo": null
     },
     "Proxy_PJ": {
         "types": [
@@ -514,7 +514,7 @@
             "trojan"
         ],
         "title": "V2RayNg &amp; Napsternet V",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/v2ray1_ng.jpg"
     },
     "v2ray_outlineir": {
         "types": [
@@ -578,7 +578,7 @@
             "vless"
         ],
         "title": "\u0641\u06cc\u0644\u062a\u0631\u0634\u06a9\u0646 \u0631\u0627\u06cc\u06af\u0627\u0646V2Ray Argo",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/v2rayng_vpnrog.jpg"
     },
     "V2rayNGmat": {
         "types": [
@@ -601,7 +601,7 @@
             "ss"
         ],
         "title": "\ud80c\udda9Ninja VPN\ud80c\uddaa\u200c",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/V2rayngninja.jpg"
+        "logo": null
     },
     "v2rayngvpn": {
         "types": [
@@ -649,7 +649,7 @@
             "vless"
         ],
         "title": "\ud83d\ude80Vmess vpn\ud83d\ude80",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/vmessorg.jpg"
+        "logo": null
     },
     "VmessProtocol": {
         "types": [
