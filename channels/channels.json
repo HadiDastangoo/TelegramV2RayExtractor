@@ -238,7 +238,7 @@
             "vless"
         ],
         "title": "\u26a1Lightning",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/lightning6.jpg"
     },
     "Lockey_vpn": {
         "types": [
@@ -347,7 +347,7 @@
             "vless"
         ],
         "title": "\u067e\u0631\u0648\u06a9\u0633\u06cc \u0646\u0627\u0628 | \u0641\u06cc\u0644\u062a\u0631\u0634\u06a9\u0646 | \u0633\u0631\u0648\u0631 V2ray",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/polproxy.jpg"
+        "logo": null
     },
     "PrivateVPNs": {
         "types": [
@@ -521,7 +521,7 @@
             "vmess"
         ],
         "title": "trojan vmess vless",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/v2ray_outlineir.jpg"
+        "logo": null
     },
     "v2ray_swhil": {
         "types": [
@@ -578,7 +578,7 @@
             "vless"
         ],
         "title": "\u0641\u06cc\u0644\u062a\u0631\u0634\u06a9\u0646 \u0631\u0627\u06cc\u06af\u0627\u0646V2Ray Argo",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/v2rayng_vpnrog.jpg"
     },
     "V2rayNGmat": {
         "types": [
