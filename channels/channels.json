@@ -210,7 +210,7 @@
             "vless"
         ],
         "title": "v2ray IP",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/ipV2Ray.jpg"
     },
     "IRN_VPN": {
         "types": [
@@ -686,7 +686,7 @@
             "vless"
         ],
         "title": "V2ray shop \u2022W\u2022",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/vpnmasi.jpg"
+        "logo": null
     },
     "VpnProSec": {
         "types": [
