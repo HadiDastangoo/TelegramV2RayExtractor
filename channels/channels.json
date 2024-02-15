@@ -362,7 +362,7 @@
             "vless"
         ],
         "title": "\ud835\udc0f\ud835\udc2b\ud835\udc28\ud835\udc31\ud835\udc32 \u20aa\ud83d\udd10 \u0633\u0631\u0648\u0631 V2ray \u067e\u0631\u0648\u06a9\u0633\u06cc \u062a\u0644\u06af\u0631\u0627\u0645 \u0641\u06cc\u0644\u062a\u0631 \u0634\u06a9\u0646 \u0631\u0627\u06cc\u06af\u0627\u0646 \u200c",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/Proxy_PJ.jpg"
     },
     "proxystore11": {
         "types": [
@@ -505,7 +505,7 @@
             "vless"
         ],
         "title": "\u269c\ufe0fV2PEDIA\u262c",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/V2pedia.jpg"
+        "logo": null
     },
     "v2ray1_ng": {
         "types": [
@@ -514,7 +514,7 @@
             "trojan"
         ],
         "title": "V2RayNg &amp; Napsternet V",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/v2ray1_ng.jpg"
     },
     "v2ray_outlineir": {
         "types": [
