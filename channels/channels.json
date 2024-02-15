@@ -73,7 +73,7 @@
             "vless"
         ],
         "title": "\u0633\u0631\u0648\u0631 \u06a9\u0627\u0646\u0641\u06cc\u06af|\u1d202\u0280\u1d00\u028f\ud83c\udf0f",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/customv2ray.jpg"
+        "logo": null
     },
     "CUSTOMVPNSERVER": {
         "types": [
@@ -102,7 +102,7 @@
             "vless"
         ],
         "title": "\u0633\u0631\u0648\u0631 | v2rayNG",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/FalconPolV2rayNG.jpg"
+        "logo": null
     },
     "flyv2ray": {
         "types": [
@@ -347,7 +347,7 @@
             "vless"
         ],
         "title": "\u067e\u0631\u0648\u06a9\u0633\u06cc \u0646\u0627\u0628 | \u0641\u06cc\u0644\u062a\u0631\u0634\u06a9\u0646 | \u0633\u0631\u0648\u0631 V2ray",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/polproxy.jpg"
+        "logo": null
     },
     "PrivateVPNs": {
         "types": [
