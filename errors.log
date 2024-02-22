@@ -322,3 +322,6 @@
 [16-Feb-2024 01:38:39 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/V2rayCollectorDonate): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
  in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
 [16-Feb-2024 01:38:39 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2024 01:35:35 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/OutlineVpnOfficial): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2024 01:35:35 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
