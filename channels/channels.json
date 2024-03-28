@@ -158,7 +158,7 @@
             "vless"
         ],
         "title": "\u0648\u0635\u0644 \u0634\u062f\u0646 \u0628\u0647 \u0646\u062a | VPN | V2ray",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/frev2ray.jpg"
     },
     "God_CONFIG": {
         "types": [
@@ -280,8 +280,8 @@
         "types": [
             "vless"
         ],
-        "title": "\ud835\udc74\ud835\udc94\ud835\udc7d\ud835\udfe4\ud835\udc93\ud835\udc82\ud835\udc9a | \ud835\udc6a\ud835\udc90\ud835\udc8f\ud835\udc87\ud835\udc8a\ud835\udc88",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/MsV2ray.jpg"
+        "title": null,
+        "logo": null
     },
     "MTConfig": {
         "types": [
