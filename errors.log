@@ -1,0 +1,4 @@
+[29-Apr-2024 17:43:18 Asia/Tehran] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[29-Apr-2024 17:43:18 Asia/Tehran] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[29-Apr-2024 17:43:18 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/v2rayng_config_amin): failed to open stream: operation failed in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[29-Apr-2024 17:43:18 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
