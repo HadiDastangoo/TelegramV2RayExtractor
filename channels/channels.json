@@ -58,7 +58,7 @@
             "trojan"
         ],
         "title": "\ud835\ude3e\ud835\ude64\ud835\ude63\ud835\ude5b\ud835\ude5e\ud835\ude5c\ud835\ude68\ud835\ude43\ud835\ude6a\ud835\ude57",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/ConfigsHUB.jpg"
+        "logo": null
     },
     "Cov2ray": {
         "types": [
@@ -135,7 +135,7 @@
             "vless"
         ],
         "title": "Free_VPN \u221a v2ray \u221a NapsternetV \u221a custom \u221a injector \u221a",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/free1_vpn.jpg"
     },
     "free4allVPN": {
         "types": [
