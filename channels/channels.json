@@ -58,7 +58,7 @@
             "trojan"
         ],
         "title": "\ud835\ude3e\ud835\ude64\ud835\ude63\ud835\ude5b\ud835\ude5e\ud835\ude5c\ud835\ude68\ud835\ude43\ud835\ude6a\ud835\ude57",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/ConfigsHUB.jpg"
     },
     "Cov2ray": {
         "types": [
@@ -640,7 +640,7 @@
             "trojan",
             "ss"
         ],
-        "title": "Vmess | vless | v2rayng \u06a9\u0627\u0646\u0627\u0644",
+        "title": "Vless | Vmess | v2rayng \u0631\u0627\u06cc\u06af\u0627\u0646",
         "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/vmess_vless_v2rayng.jpg"
     },
     "vmessorg": {
