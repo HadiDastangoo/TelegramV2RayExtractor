@@ -1,6 +1,7 @@
-trojan://telegram-id-directvpn@15.156.240.52:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇨🇦 @ConfigsHUB • [11-1] ₁₄₀₃₋₀₃₋₂₉__₁₇₋₃₆₋₀₈
-trojan://telegram-id-privatevpns@13.60.123.187:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪 @ConfigsHUB • [11-2] ₁₄₀₃₋₀₃₋₂₉__₁₇₋₃₆₋₀₉
-trojan://telegram-id-directvpn@35.183.146.217:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇨🇦 @DirectVPN • [18-1] ₁₄₀₃₋₀₃₋₂₉__₁₇₋₃₆₋₁₇
-trojan://telegram-id-privatevpns@13.48.154.54:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪 @PrivateVPNs • [63-1] ₁₄₀₃₋₀₃₋₂₉__₁₇₋₃₇₋₁₀
-trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#🇺🇸 @yaney_01 • [137-1] ₁₄₀₃₋₀₃₋₂₉__₁₇₋₃₉₋₀₄
-trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#🇸🇬 @yaney_01 • [137-2] ₁₄₀₃₋₀₃₋₂₉__₁₇₋₃₉₋₀₅
+trojan://telegram-id-privatevpns@35.159.186.225:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪 @ConfigsHUB • [11-1] ₁₄₀₃₋₀₃₋₂₉__₁₈₋₃₆₋₃₆
+trojan://ab602e02-624b-44f0-a51b-25ed53f70048@us.eaxeg.be:443?alpn=http%2F1.1&fp=chrome&headerType=None&hiddify=1&host=us.eaxeg.be&path=%2Fq7ugFVneYzh1SQ9N70H4Y2aW&security=tls&sni=us.eaxeg.be&type=ws#🇺🇸 @ConfigsHUB • [11-2] ₁₄₀₃₋₀₃₋₂₉__₁₈₋₃₆₋₃₆
+trojan://telegram-id-directvpn@15.156.240.52:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇨🇦 @DirectVPN • [18-1] ₁₄₀₃₋₀₃₋₂₉__₁₈₋₃₆₋₄₃
+trojan://telegram-id-directvpn@3.140.129.167:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇺🇸 @DirectVPN • [18-2] ₁₄₀₃₋₀₃₋₂₉__₁₈₋₃₆₋₄₃
+trojan://telegram-id-privatevpns@35.159.60.69:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪 @PrivateVPNs • [63-1] ₁₄₀₃₋₀₃₋₂₉__₁₈₋₃₇₋₂₃
+trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#🇺🇸 @yaney_01 • [137-1] ₁₄₀₃₋₀₃₋₂₉__₁₈₋₃₈₋₅₃
+trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#🇸🇬 @yaney_01 • [137-2] ₁₄₀₃₋₀₃₋₂₉__₁₈₋₃₈₋₅₃
