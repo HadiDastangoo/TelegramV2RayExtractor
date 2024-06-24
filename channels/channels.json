@@ -217,7 +217,7 @@
             "vless"
         ],
         "title": "I\u200cR\u1de2N\u1de1 V\u200cP\u200cN",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/IRN_VPN.jpg"
+        "logo": null
     },
     "iSegaro": {
         "types": [
@@ -475,7 +475,7 @@
             "vless"
         ],
         "title": "Unlimited",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/UnlimitedDev.jpg"
     },
     "v2_team": {
         "types": [
