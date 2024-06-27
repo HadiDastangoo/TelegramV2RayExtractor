@@ -396,7 +396,7 @@
             "vless"
         ],
         "title": "\ud835\udde5\ud835\uddd4\ud835\uddec\ud835\udde9\ud835\udde3\ud835\udde6 | \u0645\u0631\u062c\u0639 \u0627\u06a9\u0627\u0646\u062a",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/rayvps.jpg"
+        "logo": null
     },
     "reality_daily": {
         "types": [
@@ -490,7 +490,7 @@
             "vmess"
         ],
         "title": "v2Line | Free v2ray Proxy Pool",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/v2Line.jpg"
+        "logo": null
     },
     "V2parsin": {
         "types": [
