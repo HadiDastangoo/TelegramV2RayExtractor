@@ -267,7 +267,7 @@
             "vless"
         ],
         "title": "MehradLearn | \u0627\u06cc\u0646\u062a\u0631\u0646\u062a \u0622\u0632\u0627\u062f",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/MehradLearn.jpg"
     },
     "melov2ray": {
         "types": [
@@ -318,15 +318,15 @@
         "types": [
             "vless"
         ],
-        "title": "\u062a\u0644\u0647 \u06a9\u062f | \u0641\u06cc\u0644\u062a\u0631\u0634\u06a9\u0646 V2ray - Outline",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/Outlinev2rayNG.jpg"
+        "title": null,
+        "logo": null
     },
     "OutlineVpnOfficial": {
         "types": [
             "ss"
         ],
-        "title": "Outline VPN Official",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/OutlineVpnOfficial.jpg"
+        "title": null,
+        "logo": null
     },
     "PAINB0Y": {
         "types": [
@@ -353,8 +353,8 @@
         "types": [
             "trojan"
         ],
-        "title": "V2ray | Vmess | Trojan | Vless",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/PrivateVPNs.jpg"
+        "title": null,
+        "logo": null
     },
     "Proxy_PJ": {
         "types": [
@@ -475,7 +475,7 @@
             "vless"
         ],
         "title": "Unlimited",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/UnlimitedDev.jpg"
     },
     "v2_team": {
         "types": [
@@ -497,15 +497,15 @@
             "vmess",
             "vless"
         ],
-        "title": "\ud83c\udfa7 International Muzic \ud83c\udfa7",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/V2parsin.jpg"
+        "title": null,
+        "logo": null
     },
     "V2pedia": {
         "types": [
             "vless"
         ],
-        "title": "\u269c\ufe0fV2PEDIA\u262c",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/V2pedia.jpg"
+        "title": null,
+        "logo": null
     },
     "v2ray1_ng": {
         "types": [
@@ -513,15 +513,15 @@
             "vless",
             "trojan"
         ],
-        "title": "V2RayNg &amp; Napsternet V",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/v2ray1_ng.jpg"
+        "title": null,
+        "logo": null
     },
     "v2ray_outlineir": {
         "types": [
             "vmess"
         ],
-        "title": "trojan vmess vless",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/v2ray_outlineir.jpg"
+        "title": null,
+        "logo": null
     },
     "v2ray_swhil": {
         "types": [
@@ -529,8 +529,8 @@
             "vless",
             "trojan"
         ],
-        "title": "\ud835\ude512\ud835\ude67\ud835\ude56\ud835\ude6e \ud835\ude34\ud835\ude38\ud835\ude29\ud835\ude2a\ud835\ude2d",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/v2ray_swhil.jpg"
+        "title": null,
+        "logo": null
     },
     "v2ray_vpn_ir": {
         "types": [
@@ -538,8 +538,8 @@
             "vless",
             "trojan"
         ],
-        "title": "V2rayNG",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/v2ray_vpn_ir.jpg"
+        "title": null,
+        "logo": null
     },
     "V2rayCollectorDonate": {
         "types": [
@@ -548,30 +548,30 @@
             "trojan",
             "ss"
         ],
-        "title": "TVC DONATE",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/V2rayCollectorDonate.jpg"
+        "title": null,
+        "logo": null
     },
     "v2rayng_config_amin": {
         "types": [
             "vless",
             "vmess"
         ],
-        "title": "v2rayng-\u06a9\u0627\u0646\u0641\u06cc\u06af-\u0633\u0631\u0648\u0631-Air Drop \u0627\u0631\u0632 \u062f\u06cc\u062c\u06cc\u062a\u0627\u0644 \u0627\u0633\u062a\u062e\u0631\u0627\u062c \u0633\u06cc\u06af\u0646\u0627\u0644 \u0631\u0627\u06cc\u06af\u0627\u0646",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/v2rayng_config_amin.jpg"
+        "title": null,
+        "logo": null
     },
     "V2rayng_Fast": {
         "types": [
             "vmess"
         ],
-        "title": "\u06a9\u0627\u0646\u0641\u06cc\u0646\u06af \u0627\u0646\u062c\u06a9\u062a\u0648\u0631 | \u0622\u0631\u06af\u0648 | V2rayng",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/V2rayng_Fast.jpg"
+        "title": null,
+        "logo": null
     },
     "v2rayNG_Matsuri": {
         "types": [
             "vless"
         ],
         "title": "\u06a9\u0627\u0646\u0641\u06cc\u06af \u0647\u0627\u06cc \u0633\u0631\u062d\u0627\u0644 \u0631\u0627\u06cc\u06af\u0627\u0646 V2ray",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/v2rayNG_Matsuri.jpg"
     },
     "v2rayng_vpnrog": {
         "types": [
@@ -716,7 +716,7 @@
             "ss"
         ],
         "title": "Yaney\u79d1\u6280\u9891\u9053",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/yaney_01.jpg"
+        "logo": null
     },
     "zen_cloud": {
         "types": [
