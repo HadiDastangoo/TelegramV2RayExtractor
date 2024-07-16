@@ -1,7 +1,9 @@
-trojan://telegram-id-directvpn@3.96.238.132:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇨🇦 @DirectVPN • [18-1] ₁₄₀₃₋₀₄₋₂₆__₁₇₋₃₇₋₀₆
-trojan://telegram-id-directvpn@3.98.4.92:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇨🇦 @DirectVPN • [18-2] ₁₄₀₃₋₀₄₋₂₆__₁₇₋₃₇₋₀₆
-trojan://telegram-id-privatevpns@13.50.128.210:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪 @PrivateVPNs • [63-1] ₁₄₀₃₋₀₄₋₂₆__₁₇₋₃₈₋₀₈
-trojan://telegram-id-privatevpns@13.48.9.236:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪 @PrivateVPNs • [63-2] ₁₄₀₃₋₀₄₋₂₆__₁₇₋₃₈₋₀₈
-trojan://518a6ff8-7233-4f28-8a40-d3fa82a5875d@jp03.156786.xyz:709?headerType=none&security=tls&sni=jp03.156786.xyz&type=tcp#🇯🇵 @VmessProtocol • [128-1] ₁₄₀₃₋₀₄₋₂₆__₁₇₋₃₉₋₂₆
-trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#🇺🇸 @yaney_01 • [137-1] ₁₄₀₃₋₀₄₋₂₆__₁₇₋₃₉₋₃₆
-trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#🇸🇬 @yaney_01 • [137-2] ₁₄₀₃₋₀₄₋₂₆__₁₇₋₃₉₋₃₇
+trojan://telegram-id-directvpn@3.98.4.92:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇨🇦 @DirectVPN • [18-1] ₁₄₀₃₋₀₄₋₂₆__₁₈₋₃₃₋₁₁
+trojan://telegram-id-directvpn@18.219.100.154:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇺🇸 @DirectVPN • [18-2] ₁₄₀₃₋₀₄₋₂₆__₁₈₋₃₃₋₁₁
+trojan://telegram-id-privatevpns@13.39.171.159:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷 @iP_CF • [40-1] ₁₄₀₃₋₀₄₋₂₆__₁₈₋₃₃₋₅₇
+trojan://sharevpn@tr1.mynode.work.gd:443?alpn=http%2F1.1&fp=chrome&security=tls&sni=tr1.mynode.work.gd&type=tcp#🇺🇸 @oneclickvpnkeys • [57-1] ₁₄₀₃₋₀₄₋₂₆__₁₈₋₃₄₋₁₈
+trojan://telegram-id-privatevpns@3.65.160.130:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪 @PrivateVPNs • [63-1] ₁₄₀₃₋₀₄₋₂₆__₁₈₋₃₄₋₂₅
+trojan://telegram-id-privatevpns@3.66.19.221:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪 @PrivateVPNs • [63-2] ₁₄₀₃₋₀₄₋₂₆__₁₈₋₃₄₋₂₆
+trojan://518a6ff8-7233-4f28-8a40-d3fa82a5875d@jp03.156786.xyz:709?headerType=none&security=tls&sni=jp03.156786.xyz&type=tcp#🇯🇵 @VmessProtocol • [128-1] ₁₄₀₃₋₀₄₋₂₆__₁₈₋₃₆₋₀₁
+trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#🇺🇸 @yaney_01 • [137-1] ₁₄₀₃₋₀₄₋₂₆__₁₈₋₃₆₋₁₃
+trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#🇸🇬 @yaney_01 • [137-2] ₁₄₀₃₋₀₄₋₂₆__₁₈₋₃₆₋₁₄
