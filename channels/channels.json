@@ -165,7 +165,7 @@
             "vless"
         ],
         "title": "\u3164\ud83e\uddcb \u05a2\u05b8\u0645\u0640\u0648\u062f\u06cc",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/God_CONFIG.jpg"
+        "logo": null
     },
     "hashmakvpn": {
         "types": [
@@ -623,7 +623,7 @@
             "vmess",
             "vless"
         ],
-        "title": "vless_vmess",
+        "title": "VPN | (V2freedom)",
         "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/vless_vmess.jpg"
     },
     "VlessConfig": {
