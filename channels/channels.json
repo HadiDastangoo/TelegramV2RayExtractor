@@ -410,7 +410,7 @@
             "vmess"
         ],
         "title": "RoyalVPN",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/Royalping_ir.jpg"
+        "logo": null
     },
     "rxv2ray": {
         "types": [
@@ -498,7 +498,7 @@
             "vless"
         ],
         "title": "\ud83c\udfa7 International Muzic \ud83c\udfa7",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/V2parsin.jpg"
     },
     "V2pedia": {
         "types": [
