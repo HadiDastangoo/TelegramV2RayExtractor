@@ -46,3 +46,5 @@
 [12-Aug-2024 20:44:25 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/vmessorg): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
  in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
 [12-Aug-2024 20:44:25 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[12-Aug-2024 21:52:33 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/XsV2ray): failed to open stream: Connection timed out in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[12-Aug-2024 21:52:33 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143

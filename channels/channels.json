@@ -108,8 +108,8 @@
         "types": [
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "FlyV2ray",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/flyv2ray.jpg"
     },
     "fnet00": {
         "types": [
@@ -117,8 +117,8 @@
             "vless",
             "trojan"
         ],
-        "title": null,
-        "logo": null
+        "title": "\ud83d\uddfd FNET00 | \u0647\u0645\u0647 \u0686\u06cc\u0632 \u0622\u0632\u0627\u062f \ud83e\udd0d",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/fnet00.jpg"
     },
     "FreakConfig": {
         "types": [
@@ -648,8 +648,8 @@
             "vmess",
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "\ud83d\ude80Vmess vpn\ud83d\ude80",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/vmessorg.jpg"
     },
     "VmessProtocol": {
         "types": [
@@ -706,7 +706,7 @@
         "types": [
             "vless"
         ],
-        "title": "\u06a9\u0648\u0634\u062a\u0627 \u0634\u062f",
+        "title": null,
         "logo": null
     },
     "yaney_01": {
