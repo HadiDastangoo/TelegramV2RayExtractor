@@ -109,7 +109,7 @@
             "vless"
         ],
         "title": "FlyV2ray",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/flyv2ray.jpg"
     },
     "fnet00": {
         "types": [
@@ -530,7 +530,7 @@
             "trojan"
         ],
         "title": "@v2ray_swhil",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/v2ray_swhil.jpg"
     },
     "v2ray_vpn_ir": {
         "types": [
