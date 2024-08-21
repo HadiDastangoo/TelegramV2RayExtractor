@@ -143,7 +143,7 @@
             "ss"
         ],
         "title": "Shadowsocks Outline Vmess Open VPN",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/free4allVPN.jpg"
+        "logo": null
     },
     "free_v2rayyy": {
         "types": [
@@ -623,7 +623,7 @@
             "vmess",
             "vless"
         ],
-        "title": "https:\/\/t.me\/vless_vmess",
+        "title": "vless_vmess",
         "logo": null
     },
     "VlessConfig": {
