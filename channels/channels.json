@@ -81,7 +81,7 @@
             "vless"
         ],
         "title": "CUSTOM VPN SERVER",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/CUSTOMVPNSERVER.jpg"
     },
     "DigiV2ray": {
         "types": [
@@ -95,7 +95,7 @@
             "trojan"
         ],
         "title": "V2ray VPN",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/DirectVPN.jpg"
     },
     "FalconPolV2rayNG": {
         "types": [
@@ -143,7 +143,7 @@
             "ss"
         ],
         "title": "Shadowsocks Outline Vmess Open VPN",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/free4allVPN.jpg"
+        "logo": null
     },
     "free_v2rayyy": {
         "types": [
@@ -267,7 +267,7 @@
             "vless"
         ],
         "title": "MehradLearn | \u0627\u06cc\u0646\u062a\u0631\u0646\u062a \u0622\u0632\u0627\u062f",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/MehradLearn.jpg"
+        "logo": null
     },
     "melov2ray": {
         "types": [
