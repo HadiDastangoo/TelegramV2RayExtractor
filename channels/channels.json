@@ -615,8 +615,8 @@
             "vless",
             "trojan"
         ],
-        "title": "V2Ray Tz,",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/V2RayTz.jpg"
+        "title": null,
+        "logo": null
     },
     "vless_vmess": {
         "types": [
