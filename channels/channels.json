@@ -305,7 +305,7 @@
             "trojan"
         ],
         "title": "OneClick VPN\ud83d\udd11v2rayNG\ud83d\udd11Matsuri\ud83d\udd11SagerNet\ud83d\udd11",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/oneclickvpnkeys.jpg"
     },
     "Outline_Vpn": {
         "types": [
@@ -381,7 +381,7 @@
             "ss"
         ],
         "title": "V2RayNg | \u06a9\u0627\u0646\u0641\u06cc\u06af \u0631\u0627\u06cc\u06af\u0627\u0646",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/proxyymeliii.jpg"
     },
     "prrofile_purple": {
         "types": [
@@ -624,7 +624,7 @@
             "vless"
         ],
         "title": "vless_vmess",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/vless_vmess.jpg"
     },
     "VlessConfig": {
         "types": [
@@ -649,7 +649,7 @@
             "vless"
         ],
         "title": "\ud83d\ude80Vmess vpn\ud83d\ude80",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/vmessorg.jpg"
+        "logo": null
     },
     "VmessProtocol": {
         "types": [
