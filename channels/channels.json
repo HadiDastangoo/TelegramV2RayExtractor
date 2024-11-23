@@ -305,7 +305,7 @@
             "trojan"
         ],
         "title": "OneClick VPN\ud83d\udd11v2rayNG\ud83d\udd11Matsuri\ud83d\udd11SagerNet\ud83d\udd11",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/oneclickvpnkeys.jpg"
+        "logo": null
     },
     "Outline_Vpn": {
         "types": [
@@ -649,7 +649,7 @@
             "vless"
         ],
         "title": "\ud83d\ude80Vmess vpn\ud83d\ude80",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/vmessorg.jpg"
     },
     "VmessProtocol": {
         "types": [
