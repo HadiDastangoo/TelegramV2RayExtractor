@@ -641,7 +641,7 @@
             "ss"
         ],
         "title": "vmess vless v2rayng",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/vmess_vless_v2rayng.jpg"
     },
     "vmessorg": {
         "types": [
@@ -672,7 +672,7 @@
             "vless"
         ],
         "title": "VPN | CUSTOMIZE",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/VPNCUSTOMIZE.jpg"
     },
     "VpnFreeSec": {
         "types": [
