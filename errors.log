@@ -210,3 +210,25 @@
 [09-Dec-2024 05:19:28 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
 [09-Dec-2024 05:20:31 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/vless_vmess): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
 [09-Dec-2024 05:20:31 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[18-Jan-2025 23:46:32 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/ARv2ray): failed to open stream: Connection timed out in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[18-Jan-2025 23:46:32 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[18-Jan-2025 23:48:49 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/Capital_NET): failed to open stream: Connection timed out in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[18-Jan-2025 23:48:49 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[18-Jan-2025 23:49:49 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/CloudCityy): failed to open stream: Connection timed out in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[18-Jan-2025 23:49:49 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[18-Jan-2025 23:51:04 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/customv2ray): failed to open stream: Connection timed out in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[18-Jan-2025 23:51:04 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[18-Jan-2025 23:52:16 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/DirectVPN): failed to open stream: Connection timed out in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[18-Jan-2025 23:52:16 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[18-Jan-2025 23:53:16 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/FalconPolV2rayNG): failed to open stream: Connection timed out in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[18-Jan-2025 23:53:16 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[18-Jan-2025 23:54:20 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/fnet00): failed to open stream: Connection timed out in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[18-Jan-2025 23:54:20 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[18-Jan-2025 23:55:20 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/FreakConfig): failed to open stream: Connection timed out in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[18-Jan-2025 23:55:20 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[18-Jan-2025 23:56:23 Asia/Tehran] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[18-Jan-2025 23:56:23 Asia/Tehran] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[18-Jan-2025 23:56:23 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/free_v2rayyy): failed to open stream: operation failed in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[18-Jan-2025 23:56:23 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[18-Jan-2025 23:58:10 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/Helix_Servers): failed to open stream: Connection timed out in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[18-Jan-2025 23:58:10 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
