@@ -482,8 +482,8 @@
             "vmess",
             "vless"
         ],
-        "title": "\ud835\udde9\ud835\udfd0 | \ud835\udde7\ud835\uddd8\ud835\uddd4\ud835\udde0",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/v2_team.jpg"
+        "title": "V2",
+        "logo": null
     },
     "v2Line": {
         "types": [
@@ -641,7 +641,7 @@
             "ss"
         ],
         "title": "vmess vless v2rayng",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/vmess_vless_v2rayng.jpg"
+        "logo": null
     },
     "vmessorg": {
         "types": [
