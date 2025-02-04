@@ -118,7 +118,7 @@
             "trojan"
         ],
         "title": "\ud83d\uddfd FNET00 | \u0647\u0645\u0647 \u0686\u06cc\u0632 \u0622\u0632\u0627\u062f \ud83e\udd0d",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/fnet00.jpg"
+        "logo": null
     },
     "FreakConfig": {
         "types": [
@@ -165,7 +165,7 @@
             "vless"
         ],
         "title": "\u3164\ud83e\uddcb \u05a2\u05b8xohub",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/God_CONFIG.jpg"
+        "logo": null
     },
     "hashmakvpn": {
         "types": [
