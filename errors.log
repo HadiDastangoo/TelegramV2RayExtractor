@@ -232,3 +232,6 @@
 [18-Jan-2025 23:56:23 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
 [18-Jan-2025 23:58:10 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/Helix_Servers): failed to open stream: Connection timed out in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
 [18-Jan-2025 23:58:10 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[17-Feb-2025 07:43:06 Asia/Tehran] PHP Warning:  file_get_contents(): SSL: Connection reset by peer in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[17-Feb-2025 07:43:06 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/Hope_Net): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[17-Feb-2025 07:43:06 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
