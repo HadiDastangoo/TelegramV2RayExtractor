@@ -118,7 +118,7 @@
             "trojan"
         ],
         "title": "\ud83d\uddfd FNET00 | \u0647\u0645\u0647 \u0686\u06cc\u0632 \u0622\u0632\u0627\u062f \ud83e\udd0d",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/fnet00.jpg"
     },
     "FreakConfig": {
         "types": [
@@ -151,7 +151,7 @@
             "vless"
         ],
         "title": "V2ray News | \u06a9\u0627\u0646\u0641\u06cc\u0646\u06af",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/free_v2rayyy.jpg"
+        "logo": null
     },
     "frev2ray": {
         "types": [
