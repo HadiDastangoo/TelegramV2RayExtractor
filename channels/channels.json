@@ -692,8 +692,8 @@
         "types": [
             "vless"
         ],
-        "title": "VPN",
-        "logo": null
+        "title": "Telegram: Contact @VpnProSec",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/VpnProSec.jpg"
     },
     "WebShecan": {
         "types": [
