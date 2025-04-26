@@ -64,7 +64,7 @@
         "types": [
             "vmess"
         ],
-        "title": "COgame",
+        "title": "Funk",
         "logo": null
     },
     "customv2ray": {
@@ -297,7 +297,7 @@
             "vless"
         ],
         "title": "NIMVPN",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/NIM_VPN_ir.jpg"
     },
     "oneclickvpnkeys": {
         "types": [
