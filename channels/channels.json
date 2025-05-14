@@ -671,29 +671,29 @@
         "types": [
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "VPN | CUSTOMIZE",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/VPNCUSTOMIZE.jpg"
     },
     "VpnFreeSec": {
         "types": [
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "@VpnFreeSec",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/VpnFreeSec.jpg"
     },
     "vpnmasi": {
         "types": [
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "V2ray shop \u2022W\u2022",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/vpnmasi.jpg"
     },
     "VpnProSec": {
         "types": [
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "Telegram: Contact @VpnProSec",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/VpnProSec.jpg"
     },
     "WebShecan": {
         "types": [
@@ -706,8 +706,8 @@
         "types": [
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "\ud835\udc7f\ud835\udc94\ud835\udc7d\ud835\udfd0\ud835\udc93\ud835\udc82\ud835\udc9a | \ud835\udc6a\ud835\udc90\ud835\udc8f\ud835\udc87\ud835\udc8a\ud835\udc8f\ud835\udc88",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/XsV2ray.jpg"
     },
     "yaney_01": {
         "types": [
@@ -715,15 +715,15 @@
             "trojan",
             "ss"
         ],
-        "title": null,
-        "logo": null
+        "title": "Yaney\u79d1\u6280\u9891\u9053",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/yaney_01.jpg"
     },
     "zen_cloud": {
         "types": [
             "vmess",
             "vless"
         ],
-        "title": null,
+        "title": "zc",
         "logo": null
     }
 }
