@@ -1,7 +1,6 @@
-vless://5f97fead-ef2c-42bb-de4c-7a30fd3f01f2@37.152.189.178:8443?security=none&type=tcp#🇮🇷 @ShadowSocks_s • 🆃unnel • [84-1] ₁₄₀₄₋₀₃₋₃₁__₀₉₋₄₃₋₁₃
-vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?path=%2F&security=none&type=ws#🇮🇷 @ShadowSocks_s • 🆃unnel • [84-2] ₁₄₀₄₋₀₃₋₃₁__₀₉₋₄₃₋₁₃
-vless://ee62d09e-caff-4a4a-9d87-9cc72d8e7a9c@server-farna1.anush.top:2087?headerType=http&host=speedtest.net&security=none&type=tcp#🇮🇷 @UnlimitedDev • 🆃unnel • [87-1] ₁₄₀₄₋₀₃₋₃₁__₀₉₋₄₃₋₁₈
-vless://f3f09bd1-b42b-4c40-a773-ee5ae8614444@all1.hajhesam.biz.id:443?alpn=http%2F1.1&encryption=none&fp=randomized&host=de222.hajhesam.biz.id&path=%2Fws%3Fed%3D2056&security=tls&sni=de222.hajhesam.biz.id&type=ws#🇮🇷 @v2ray_vpn_ir • 🆃unnel • [102-1] ₁₄₀₄₋₀₃₋₃₁__₀₉₋₄₃₋₃₁
-vless://85fa3eed-6d74-421b-bcb9-dabd7418fcb7@1.rexg.ir:11001?encryption=none&headerType=http&host=speed.cloudflare.com&security=none&type=tcp#🇮🇷 @v2rayNG_Matsuri • 🆃unnel • [110-1] ₁₄₀₄₋₀₃₋₃₁__₀₉₋₄₃₋₄₀
-vless://a8ec0c05-e040-4b7c-b04d-39bd63db4661@am3.estarlink1.us:51234?encryption=none&headerType=http&host=telewebion.com&security=none&type=tcp#🇮🇷 @XsV2ray • 🆃unnel • [135-1] ₁₄₀₄₋₀₃₋₃₁__₀₉₋₄₄₋₀₃
-trojan://V_kT5VVzTK4gfCCxQipNAA@server2.cactusrobot.ir:8608?headerType=http&security=none&type=tcp#🇮🇷 @V2rayCollectorDonate • 🆃unnel • [106-1] ₁₄₀₄₋₀₃₋₃₁__₀₉₋₄₃₋₃₆
+vless://5f97fead-ef2c-42bb-de4c-7a30fd3f01f2@37.152.189.178:8443?security=none&type=tcp#🇮🇷 @ShadowSocks_s • 🆃unnel • [84-1] ₁₄₀₄₋₀₃₋₃₁__₁₀₋₃₉₋₂₅
+vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?path=%2F&security=none&type=ws#🇮🇷 @ShadowSocks_s • 🆃unnel • [84-2] ₁₄₀₄₋₀₃₋₃₁__₁₀₋₃₉₋₂₆
+vless://f3f09bd1-b42b-4c40-a773-ee5ae8614444@all1.hajhesam.biz.id:443?alpn=http%2F1.1&encryption=none&fp=randomized&host=de222.hajhesam.biz.id&path=%2Fws%3Fed%3D2056&security=tls&sni=de222.hajhesam.biz.id&type=ws#🇮🇷 @v2ray_vpn_ir • 🆃unnel • [102-1] ₁₄₀₄₋₀₃₋₃₁__₁₀₋₃₉₋₄₂
+vless://85fa3eed-6d74-421b-bcb9-dabd7418fcb7@1.rexg.ir:11001?encryption=none&headerType=http&host=speed.cloudflare.com&security=none&type=tcp#🇮🇷 @v2rayNG_Matsuri • 🆃unnel • [110-1] ₁₄₀₄₋₀₃₋₃₁__₁₀₋₃₉₋₄₉
+vless://a8ec0c05-e040-4b7c-b04d-39bd63db4661@am3.estarlink1.us:51234?encryption=none&headerType=http&host=telewebion.com&security=none&type=tcp#🇮🇷 @XsV2ray • 🆃unnel • [135-1] ₁₄₀₄₋₀₃₋₃₁__₁₀₋₄₀₋₁₀
+trojan://V_kT5VVzTK4gfCCxQipNAA@server2.cactusrobot.ir:8608?headerType=http&security=none&type=tcp#🇮🇷 @V2rayCollectorDonate • 🆃unnel • [106-1] ₁₄₀₄₋₀₃₋₃₁__₁₀₋₃₉₋₄₆
