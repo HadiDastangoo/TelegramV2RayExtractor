@@ -4,6 +4,7 @@ $channels = [
 	"ARv2ray" => ["vless"],
 	"Awlix_ir" => ["vmess"],
 	"azadi_az_inja_migzare" => ["vmess", "vless", "ss"],
+	"BegzarProxy" => ["vless"],
 	"BestV2rang" => ["vless"],
 	"bright_vpn" => ["vless", "ss"],
 	"Capital_NET" => ["vless"],
