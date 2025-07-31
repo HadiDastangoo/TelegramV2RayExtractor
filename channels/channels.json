@@ -172,7 +172,7 @@
         "types": [
             "vless"
         ],
-        "title": "\u0627\u062f",
+        "title": null,
         "logo": null
     },
     "God_CONFIG": {
@@ -245,8 +245,8 @@
         "types": [
             "vless"
         ],
-        "title": "Telegram: Contact @L_AGVPN13",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/L_AGVPN13.jpg"
+        "title": null,
+        "logo": null
     },
     "lightning6": {
         "types": [
@@ -274,8 +274,8 @@
         "types": [
             "vless"
         ],
-        "title": "Lrn By MAA",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/lrnbymaa.jpg"
+        "title": null,
+        "logo": null
     },
     "MehradLearn": {
         "types": [
@@ -304,8 +304,8 @@
             "vless",
             "ss"
         ],
-        "title": "MT Config",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/MTConfig.jpg"
+        "title": null,
+        "logo": null
     },
     "NIM_VPN_ir": {
         "types": [
@@ -622,8 +622,8 @@
         "types": [
             "vless"
         ],
-        "title": "\u0633\u0631\u0648\u0631 \u06a9\u0627\u0646\u0641\u06cc\u06af \u06a9\u0627\u0646\u0641\u06cc\u0646\u06af \u0631\u0627\u06cc\u06af\u0627\u0646",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/v2rayngvpn.jpg"
+        "title": null,
+        "logo": null
     },
     "V2RayTz": {
         "types": [
