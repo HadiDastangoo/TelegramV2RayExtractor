@@ -485,44 +485,44 @@
         "types": [
             "vmess"
         ],
-        "title": "\u0641\u06cc\u0644\u062a\u0631\u0634\u06a9\u0646 \u0631\u0627\u06cc\u06af\u0627\u0646",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/Royalping_ir.jpg"
+        "title": null,
+        "logo": null
     },
     "rxv2ray": {
         "types": [
             "vless"
         ],
-        "title": "RxV2ray \u06a9\u0627\u0646\u0641\u06cc\u06af\u200c\u0647\u0627\u06cc \u0631\u0627\u06cc\u06af\u0627\u0646",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/rxv2ray.jpg"
+        "title": null,
+        "logo": null
     },
     "SafeNet_Server": {
         "types": [
             "vmess",
             "vless"
         ],
-        "title": "SafeNet Server \ud83d\uddfd",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/SafeNet_Server.jpg"
+        "title": null,
+        "logo": null
     },
     "server444": {
         "types": [
             "vless"
         ],
-        "title": "VIP SERVER",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/server444.jpg"
+        "title": null,
+        "logo": null
     },
     "serveriran11": {
         "types": [
             "vless"
         ],
-        "title": "Telegram: Contact @serveriran11",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/serveriran11.jpg"
+        "title": null,
+        "logo": null
     },
     "ServerNett": {
         "types": [
             "vless"
         ],
-        "title": "\u0633\u0631\u0648\u0631 \u06a9\u0627\u0646\u0641\u06cc\u06af V2rayNG",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/ServerNett.jpg"
+        "title": null,
+        "logo": null
     },
     "ShadowProxy66": {
         "types": [
@@ -543,15 +543,15 @@
         "types": [
             "vless"
         ],
-        "title": "Sh Proxy",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/shh_proxy.jpg"
+        "title": null,
+        "logo": null
     },
     "shopingv2ray": {
         "types": [
             "vless"
         ],
-        "title": "\u0633\u0631\u0648\u0631 \u0627\u062e\u062a\u0635\u0627\u0635\u06cc \u0641\u06cc\u0644\u062a\u0631 \u0634\u06a9\u0646",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/shopingv2ray.jpg"
+        "title": null,
+        "logo": null
     },
     "UnlimitedDev": {
         "types": [
