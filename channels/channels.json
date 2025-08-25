@@ -49,7 +49,7 @@
             "vless"
         ],
         "title": "\u0131ll\u0131ll\u0131 \ud835\uddd6\ud835\uddee\ud835\uddfd\ud835\uddf6\ud835\ude01\ud835\uddee\ud835\uddf9\u2115\ud835\udd3c\ud835\udd4b \u0131ll\u0131ll\u0131",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/Capital_NET.jpg"
+        "logo": null
     },
     "CloudCityy": {
         "types": [
@@ -639,7 +639,7 @@
             "ss"
         ],
         "title": "TVC DONATE",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/V2rayCollectorDonate.jpg"
     },
     "v2raying": {
         "types": [
