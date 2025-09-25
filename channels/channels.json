@@ -80,7 +80,7 @@
             "vless"
         ],
         "title": "\u0633\u06cc \u0622\u0631 \u06af\u06cc\u0645\u06cc\u0646\u06af | CR GAMING",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/crgaming7.jpg"
+        "logo": null
     },
     "customv2ray": {
         "types": [
@@ -416,7 +416,7 @@
             "vless"
         ],
         "title": "Parsashonam | \u0641\u06cc\u0644\u062a\u0631\u0634\u06a9\u0646 \u0631\u0627\u06cc\u06af\u0627\u0646 | V2Ray",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/Parsashonam.jpg"
     },
     "polproxy": {
         "types": [
