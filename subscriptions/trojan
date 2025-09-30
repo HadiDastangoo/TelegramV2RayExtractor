@@ -1,8 +1,10 @@
-trojan://telegram-id-directvpn@52.47.180.25:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷 @DirectVPN • [21-1] ₁₄₀₄₋₀₇₋₀₈__₀₉₋₄₄₋₃₄
-trojan://telegram-id-directvpn@13.38.203.210:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷 @DirectVPN • [21-2] ₁₄₀₄₋₀₇₋₀₈__₀₉₋₄₄₋₃₄
-trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?headerType=none&security=tls&type=tcp#🇫🇷 @FreakConfig • [29-1] ₁₄₀₄₋₀₇₋₀₈__₀₉₋₄₄₋₄₇
-trojan://telegram-id-privatevpns@52.47.180.25:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷 @PrivateVPNs • [77-1] ₁₄₀₄₋₀₇₋₀₈__₀₉₋₄₆₋₀₀
-trojan://telegram-id-privatevpns@13.38.203.210:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷 @PrivateVPNs • [77-2] ₁₄₀₄₋₀₇₋₀₈__₀₉₋₄₆₋₀₁
-trojan://V_kT5VVzTK4gfCCxQipNAA@server2.cactusrobot.ir:8608?headerType=http&security=none&type=tcp#🇮🇷 @V2rayCollectorDonate • 🆃unnel • [122-1] ₁₄₀₄₋₀₇₋₀₈__₀₉₋₄₇₋₀₆
-trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#🇺🇸 @yaney_01 • [161-1] ₁₄₀₄₋₀₇₋₀₈__₀₉₋₄₈₋₁₆
-trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#🇺🇸 @yaney_01 • [161-2] ₁₄₀₄₋₀₇₋₀₈__₀₉₋₄₈₋₁₈
+trojan://tg-dns68@104.19.38.200:443?host=vip.putata.eu.org&security=tls&sni=vip.putata.eu.org&type=ws#🚩 @ConfigsHUB • [14-1] ₁₄₀₄₋₀₇₋₀₈__₁₀₋₄₀₋₀₈
+trojan://NISHIKUITAN222@190.93.245.186:443?allowInsecure=1&ws=1&wspath=%2F#🚩 @ConfigsHUB • [14-2] ₁₄₀₄₋₀₇₋₀₈__₁₀₋₄₀₋₀₉
+trojan://telegram-id-directvpn@13.38.203.210:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷 @DirectVPN • [21-1] ₁₄₀₄₋₀₇₋₀₈__₁₀₋₄₀₋₁₆
+trojan://telegram-id-directvpn@63.177.14.170:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪 @DirectVPN • [21-2] ₁₄₀₄₋₀₇₋₀₈__₁₀₋₄₀₋₁₇
+trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?headerType=none&security=tls&type=tcp#🇫🇷 @FreakConfig • [29-1] ₁₄₀₄₋₀₇₋₀₈__₁₀₋₄₀₋₂₆
+trojan://telegram-id-privatevpns@13.38.203.210:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷 @PrivateVPNs • [77-1] ₁₄₀₄₋₀₇₋₀₈__₁₀₋₄₁₋₁₇
+trojan://telegram-id-privatevpns@63.177.14.170:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪 @PrivateVPNs • [77-2] ₁₄₀₄₋₀₇₋₀₈__₁₀₋₄₁₋₁₇
+trojan://V_kT5VVzTK4gfCCxQipNAA@server2.cactusrobot.ir:8608?headerType=http&security=none&type=tcp#🇮🇷 @V2rayCollectorDonate • 🆃unnel • [122-1] ₁₄₀₄₋₀₇₋₀₈__₁₀₋₄₂₋₀₂
+trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#🇺🇸 @yaney_01 • [161-1] ₁₄₀₄₋₀₇₋₀₈__₁₀₋₄₂₋₅₄
+trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#🇺🇸 @yaney_01 • [161-2] ₁₄₀₄₋₀₇₋₀₈__₁₀₋₄₂₋₅₅
