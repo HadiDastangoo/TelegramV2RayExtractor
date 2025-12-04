@@ -11,7 +11,7 @@
             "vmess"
         ],
         "title": "Awlix | \u06a9\u0627\u0646\u0641\u06cc\u06af | Proxy",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/Awlix_ir.jpg"
+        "logo": null
     },
     "azadi_az_inja_migzare": {
         "types": [
@@ -96,7 +96,7 @@
             "vless"
         ],
         "title": "CUSTOM VPN SERVER",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/CUSTOMVPNSERVER.jpg"
+        "logo": null
     },
     "DigiV2ray": {
         "types": [
@@ -110,7 +110,7 @@
             "trojan"
         ],
         "title": "V2ray VPN",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/DirectVPN.jpg"
+        "logo": null
     },
     "FalconPolV2rayNG": {
         "types": [
@@ -537,7 +537,7 @@
             "vless"
         ],
         "title": "ShadowSocks V2ray | #MIGA \ud83d\udc9a\ud83e\udd0d\u2764\ufe0f",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/ShadowSocks_s.jpg"
+        "logo": null
     },
     "shh_proxy": {
         "types": [
@@ -573,7 +573,7 @@
             "vmess"
         ],
         "title": "v2Line Proxy",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/v2Line.jpg"
+        "logo": null
     },
     "V2parsin": {
         "types": [
