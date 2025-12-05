@@ -110,7 +110,7 @@
             "trojan"
         ],
         "title": "V2ray VPN",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/DirectVPN.jpg"
+        "logo": null
     },
     "FalconPolV2rayNG": {
         "types": [
@@ -537,7 +537,7 @@
             "vless"
         ],
         "title": "ShadowSocks V2ray | #MIGA \ud83d\udc9a\ud83e\udd0d\u2764\ufe0f",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/ShadowSocks_s.jpg"
+        "logo": null
     },
     "shh_proxy": {
         "types": [
