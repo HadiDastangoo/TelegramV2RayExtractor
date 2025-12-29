@@ -167,8 +167,8 @@
             "vmess",
             "vless"
         ],
-        "title": "\u06a9\u0627\u0646\u0641\u06cc\u06af \u0631\u0627\u06cc\u06af\u0627\u0646 - \u067e\u0631\u0648\u06a9\u0633\u06cc - v2ray",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/free_v2rayn1.jpg"
+        "title": null,
+        "logo": null
     },
     "free_v2rayyy": {
         "types": [
