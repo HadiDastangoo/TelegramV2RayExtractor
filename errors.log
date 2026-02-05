@@ -457,3 +457,7 @@
 [29-Dec-2025 11:52:32 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
 [31-Dec-2025 02:48:44 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/L_AGVPN13): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
 [31-Dec-2025 02:48:44 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[06-Feb-2026 02:50:59 Asia/Tehran] PHP Warning:  file_get_contents(): SSL: Connection reset by peer in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[06-Feb-2026 02:50:59 Asia/Tehran] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[06-Feb-2026 02:50:59 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/v2rayngvpn): failed to open stream: operation failed in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[06-Feb-2026 02:50:59 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
