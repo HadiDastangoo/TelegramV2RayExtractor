@@ -464,3 +464,19 @@
 [09-Feb-2026 17:42:24 Asia/Tehran] PHP Warning:  file_get_contents(): SSL: Connection reset by peer in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
 [09-Feb-2026 17:42:24 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/V2RayTz): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
 [09-Feb-2026 17:42:24 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[09-Feb-2026 22:14:28 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/lrnbymaa): failed to open stream: Network is unreachable in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[09-Feb-2026 22:14:28 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[09-Feb-2026 22:14:40 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/NIM_VPN_ir): failed to open stream: Network is unreachable in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[09-Feb-2026 22:14:40 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[09-Feb-2026 22:14:52 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/polproxy): failed to open stream: Network is unreachable in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[09-Feb-2026 22:14:52 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[09-Feb-2026 22:15:00 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/prrofile_purple): failed to open stream: Network is unreachable in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[09-Feb-2026 22:15:00 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[09-Feb-2026 22:15:04 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/Royalping_ir): failed to open stream: Network is unreachable in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[09-Feb-2026 22:15:04 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[09-Feb-2026 22:15:28 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/V2pedia): failed to open stream: Network is unreachable in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[09-Feb-2026 22:15:28 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[09-Feb-2026 22:15:42 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/v2rayng_config_amin): failed to open stream: Network is unreachable in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[09-Feb-2026 22:15:42 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[09-Feb-2026 22:15:51 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/V2rayNGn): failed to open stream: Network is unreachable in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[09-Feb-2026 22:15:51 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143

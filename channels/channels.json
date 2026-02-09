@@ -312,8 +312,8 @@
         "types": [
             "vless"
         ],
-        "title": "Lrn By MAA",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/lrnbymaa.jpg"
+        "title": null,
+        "logo": null
     },
     "MehradLearn": {
         "types": [
@@ -365,8 +365,8 @@
         "types": [
             "vless"
         ],
-        "title": "NIMVPN",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/NIM_VPN_ir.jpg"
+        "title": null,
+        "logo": null
     },
     "oneclickvpnkeys": {
         "types": [
@@ -422,8 +422,8 @@
         "types": [
             "vless"
         ],
-        "title": "\u067e\u0631\u0648\u06a9\u0633\u06cc \u0646\u0627\u0628 | \u0639\u0628\u0648\u0631 \u0627\u0632 \u06a9\u0644\u0645\u0627\u062a",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/polproxy.jpg"
+        "title": null,
+        "logo": null
     },
     "PrivateVPNs": {
         "types": [
@@ -464,8 +464,8 @@
             "vmess",
             "vless"
         ],
-        "title": "\u0633\u0631\u0648\u0631 - V2rayNG",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/prrofile_purple.jpg"
+        "title": null,
+        "logo": null
     },
     "rayvps": {
         "types": [
@@ -485,8 +485,8 @@
         "types": [
             "vmess"
         ],
-        "title": "\u0641\u06cc\u0644\u062a\u0631\u0634\u06a9\u0646 \u0631\u0627\u06cc\u06af\u0627\u0646",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/Royalping_ir.jpg"
+        "title": null,
+        "logo": null
     },
     "rxv2ray": {
         "types": [
@@ -587,8 +587,8 @@
         "types": [
             "vless"
         ],
-        "title": "\u269c\ufe0fV2PEDIA\u262c",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/V2pedia.jpg"
+        "title": null,
+        "logo": null
     },
     "V2ray_Collector": {
         "types": [
@@ -655,8 +655,8 @@
             "vless",
             "vmess"
         ],
-        "title": "Telegram: Contact @v2rayng_config_amin",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/v2rayng_config_amin.jpg"
+        "title": null,
+        "logo": null
     },
     "v2rayng3": {
         "types": [
@@ -698,8 +698,8 @@
             "vmess",
             "vless"
         ],
-        "title": "V2RAYNGN VPN",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/V2rayNGn.jpg"
+        "title": null,
+        "logo": null
     },
     "V2rayngninja": {
         "types": [
