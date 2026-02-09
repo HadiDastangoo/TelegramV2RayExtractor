@@ -565,8 +565,8 @@
             "vmess",
             "vless"
         ],
-        "title": "V2",
-        "logo": null
+        "title": "\ud835\udde9\ud835\udfd0 | \ud835\udde7\ud835\uddd8\ud835\uddd4\ud835\udde0",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/v2_team.jpg"
     },
     "v2Line": {
         "types": [
@@ -729,8 +729,8 @@
             "vless",
             "trojan"
         ],
-        "title": "V2Ray Tz | V2Ray_Tz | Tz | V2RayNG | \u06a9\u0627\u0646\u0641\u06cc\u06af | \u06a9\u0627\u0646\u0641\u06cc\u0646\u06af | Config | VPN | V2Ray Tz | V2RayT | V2Rayxz",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/V2RayTz.jpg"
+        "title": null,
+        "logo": null
     },
     "v2trayproxy": {
         "types": [
