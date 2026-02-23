@@ -488,3 +488,93 @@
 [20-Feb-2026 14:56:41 Asia/Tehran] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
 [20-Feb-2026 14:56:41 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/Parsashonam): failed to open stream: operation failed in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
 [20-Feb-2026 14:56:41 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 12:36:38 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/ARv2ray): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 12:36:38 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 12:37:39 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/Awlix_ir): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 12:37:39 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 12:38:39 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/azadi_az_inja_migzare): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 12:38:39 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 12:39:39 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/BegzarProxy): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 12:39:39 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 12:41:24 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/bright_vpn): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 12:41:24 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 12:42:45 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/CloudCityy): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 12:42:45 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 12:43:45 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/config_proxy): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 12:43:45 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 12:44:45 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/ConfigsHUB): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 12:44:45 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 12:47:11 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/CUSTOMVPNSERVER): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 12:47:11 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 12:48:19 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/DirectVPN): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 12:48:19 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 12:49:49 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/flyv2ray): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 12:49:49 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 12:50:49 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/fnet00): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 12:50:49 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 12:53:10 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/free_v2rayn1): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 12:53:10 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 12:54:10 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/free_v2rayyy): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 12:54:10 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 12:55:11 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/frev2ray): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 12:55:11 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 12:56:11 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/ghalagyann): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 12:56:11 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 12:57:34 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/Helix_Servers): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 12:57:34 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 12:58:35 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/Hope_Net): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 12:58:35 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 13:00:37 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/INIT1984): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 13:00:37 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 13:02:28 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/ipV2Ray): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 13:02:28 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 13:03:49 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/iSegaro): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 13:03:49 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 13:04:50 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/KAFING_2): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 13:04:50 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 13:05:50 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/Kurdistan_Vpn_Perfectt): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 13:05:50 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 13:07:37 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/Royalping_ir): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 13:07:37 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 13:07:37 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/rxv2ray): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 13:07:37 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 13:08:17 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/serveriran11): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 13:08:17 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 13:08:18 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/ServerNett): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 13:08:18 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 13:08:18 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/ShadowProxy66): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 13:08:18 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 13:08:19 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/ShadowSocks_s): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 13:08:19 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 13:08:19 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/shh_proxy): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 13:08:19 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 13:08:19 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/shopingv2ray): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 13:08:19 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 13:09:20 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/UnlimitedDev): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 13:09:20 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 13:10:20 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/v2_team): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 13:10:20 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 13:11:20 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/v2Line): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 13:11:20 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 13:12:25 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/V2pedia): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 13:12:25 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 13:13:25 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/V2ray_Collector): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 13:13:25 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 13:15:01 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/v2ray1_ng): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 13:15:01 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 13:16:01 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/V2rayCollectorDonate): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 13:16:01 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 13:17:22 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/v2rayng_config_amin): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 13:17:22 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 13:19:03 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/v2rayNG_Matsuri): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 13:19:03 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[23-Feb-2026 13:20:04 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/v2rayng_vpnrog): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[23-Feb-2026 13:20:04 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
