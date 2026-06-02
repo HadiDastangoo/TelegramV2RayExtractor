@@ -1,7 +1,8 @@
-vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?encryption=none&headerType=&security=&type=tcp#🇮🇷 @CloudCityy • 🆃unnel • [9-1] ₁₄₀₅₋₀₃₋₁₂__₀₈₋₄₈₋₄₁
-vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?encryption=none&headerType=none&security=&type=tcp#🇮🇷 @config_proxy • 🆃unnel • [10-1] ₁₄₀₅₋₀₃₋₁₂__₀₈₋₄₈₋₄₃
-vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?encryption=none&host=vixon.portab.org&path=%2F&security=none&type=ws#🇮🇷 @config_proxy • 🆃unnel • [10-2] ₁₄₀₅₋₀₃₋₁₂__₀₈₋₄₈₋₄₃
-vless://abd3221a-af6d-42b7-9373-dfe3efe6f512@37.202.238.213:2095?encryption=none&headerType=http&host=Myket.ir&security=none&type=tcp#🇮🇷 @DigiV2ray • 🆃unnel • [20-1] ₁₄₀₅₋₀₃₋₁₂__₀₈₋₄₈₋₅₃
-vless://083c7724-d08f-4e0d-9712-3208abcf04d0@185.143.233.202:443?allowInsecure=1&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=cyrus.frtshop.ir&insecure=1&path=%2Fed%3D2080&security=tls&sni=cyrus.frtshop.ir&type=ws#🇮🇷 @shh_proxy • 🆃unnel • [100-1] ₁₄₀₅₋₀₃₋₁₂__₀₈₋₅₀₋₀₁
-vless://5631816e-ac57-4b24-930f-576ce5f1018f@185.143.234.122:80?allowInsecure=0&encryption=none&host=tr1.lnsynccloud.com&path=%2F&security=none&type=ws#🇮🇷 @V2rayNGn • 🆃unnel • [133-1] ₁₄₀₅₋₀₃₋₁₂__₀₈₋₅₀₋₃₂
-vless://58a42dcf-8570-478a-b800-acaefdb3ee17@kh.kelimanjaro.ir:2095?allowInsecure=0&encryption=none&path=%2F&security=none&type=ws#🇮🇷 @V2rayNGn • 🆃unnel • [133-2] ₁₄₀₅₋₀₃₋₁₂__₀₈₋₅₀₋₃₇
+vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?encryption=none&headerType=&security=&type=tcp#🇮🇷 @CloudCityy • 🆃unnel • [9-1] ₁₄₀₅₋₀₃₋₁₂__₁₃₋₂₆₋₀₃
+vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?encryption=none&headerType=none&security=&type=tcp#🇮🇷 @config_proxy • 🆃unnel • [10-1] ₁₄₀₅₋₀₃₋₁₂__₁₃₋₂₆₋₀₆
+vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?encryption=none&host=vixon.portab.org&path=%2F&security=none&type=ws#🇮🇷 @config_proxy • 🆃unnel • [10-2] ₁₄₀₅₋₀₃₋₁₂__₁₃₋₂₆₋₀₆
+vless://abd3221a-af6d-42b7-9373-dfe3efe6f512@37.202.238.213:2095?encryption=none&headerType=http&host=Myket.ir&security=none&type=tcp#🇮🇷 @DigiV2ray • 🆃unnel • [20-1] ₁₄₀₅₋₀₃₋₁₂__₁₃₋₂₆₋₁₉
+vless://8d811927-b365-458c-ab8e-3d5594b7e73b@cdn.zalti.top:2052?encryption=none&host=direct.zaltii.ir&path=%2FDL%3Fed%3D2095&security=none&type=ws#🇮🇷 @NETMelliAnti • 🆃unnel • [67-2] ₁₄₀₅₋₀₃₋₁₂__₁₃₋₂₇₋₁₆
+vless://083c7724-d08f-4e0d-9712-3208abcf04d0@185.143.233.202:443?allowInsecure=1&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=cyrus.frtshop.ir&insecure=1&path=%2Fed%3D2080&security=tls&sni=cyrus.frtshop.ir&type=ws#🇮🇷 @shh_proxy • 🆃unnel • [100-1] ₁₄₀₅₋₀₃₋₁₂__₁₃₋₂₇₋₅₇
+vless://5631816e-ac57-4b24-930f-576ce5f1018f@185.143.234.122:80?allowInsecure=0&encryption=none&host=tr1.lnsynccloud.com&path=%2F&security=none&type=ws#🇮🇷 @V2rayNGn • 🆃unnel • [133-1] ₁₄₀₅₋₀₃₋₁₂__₁₃₋₂₈₋₄₀
+vless://58a42dcf-8570-478a-b800-acaefdb3ee17@kh.kelimanjaro.ir:2095?allowInsecure=0&encryption=none&path=%2F&security=none&type=ws#🇮🇷 @V2rayNGn • 🆃unnel • [133-2] ₁₄₀₅₋₀₃₋₁₂__₁₃₋₂₈₋₄₁
