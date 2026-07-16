@@ -706,8 +706,8 @@
             "vless",
             "ss"
         ],
-        "title": "\ud80c\udda9Ninja VPN\ud80c\uddaa\u200c",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/V2rayngninja.jpg"
+        "title": null,
+        "logo": null
     },
     "v2rayngvpn": {
         "types": [
