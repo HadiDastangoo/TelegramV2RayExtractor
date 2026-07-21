@@ -1,3 +1,6 @@
-vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?encryption=none&headerType=&security=&type=tcp#🇮🇷 @CloudCityy • 🆃unnel • [9-1] ₁₄₀₅₋₀₄₋₃₀__₁₀₋₅₅₋₂₀
-vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?encryption=none&headerType=none&security=&type=tcp#🇮🇷 @config_proxy • 🆃unnel • [10-1] ₁₄₀₅₋₀₄₋₃₀__₁₀₋₅₅₋₂₂
-vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?encryption=none&host=vixon.portab.org&path=%2F&security=none&type=ws#🇮🇷 @config_proxy • 🆃unnel • [10-2] ₁₄₀₅₋₀₄₋₃₀__₁₀₋₅₅₋₂₃
+vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?encryption=none&headerType=&security=&type=tcp#🇮🇷 @CloudCityy • 🆃unnel • [9-1] ₁₄₀₅₋₀₄₋₃₀__₁₃₋₄₀₋₃₄
+vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?encryption=none&headerType=none&security=&type=tcp#🇮🇷 @config_proxy • 🆃unnel • [10-1] ₁₄₀₅₋₀₄₋₃₀__₁₃₋₄₀₋₃₆
+vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?encryption=none&host=vixon.portab.org&path=%2F&security=none&type=ws#🇮🇷 @config_proxy • 🆃unnel • [10-2] ₁₄₀₅₋₀₄₋₃₀__₁₃₋₄₀₋₃₇
+vless://157e4763-6153-4798-9b25-c53cbc1b5b01@varzesh3.com:2052?encryption=none&headerType=none&host=Re2.cho4.ir&path=%2F&security=none&type=ws#🇮🇷 @ConfigsHUB • 🆃unnel • [13-1] ₁₄₀₅₋₀₄₋₃₀__₁₃₋₄₀₋₄₁
+vless://157e4763-6153-4798-9b25-c53cbc1b5b01@res1.chuchar.ir:2052?encryption=none&headerType=none&host=res1.chuchar.ir&path=%2F&security=none&type=ws#🇮🇷 @ConfigsHUB • 🆃unnel • [13-2] ₁₄₀₅₋₀₄₋₃₀__₁₃₋₄₀₋₄₃
+vless://a490e46d-e450-4c73-631f-920da539186c@s2.zynavo.ir:2087?allowInsecure=1&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=cdn.zynavo.ir&insecure=1&mode=auto&path=%2FBetForward&security=tls&sni=cdn.zynavo.ir&type=xhttp#🇮🇷 @FreakConfig • 🆃unnel • [28-2] ₁₄₀₅₋₀₄₋₃₀__₁₃₋₄₁₋₀₁
