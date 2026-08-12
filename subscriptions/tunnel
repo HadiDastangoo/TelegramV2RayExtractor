@@ -1,4 +1,5 @@
-vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?encryption=none&headerType=&security=&type=tcp#🇮🇷 @CloudCityy • 🆃unnel • [9-1] ₁₄₀₅₋₀₅₋₂₁__₁₂₋₂₆₋₄₉
-vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?encryption=none&headerType=none&security=&type=tcp#🇮🇷 @config_proxy • 🆃unnel • [10-1] ₁₄₀₅₋₀₅₋₂₁__₁₂₋₂₆₋₅₁
-vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?encryption=none&host=vixon.portab.org&path=%2F&security=none&type=ws#🇮🇷 @config_proxy • 🆃unnel • [10-2] ₁₄₀₅₋₀₅₋₂₁__₁₂₋₂₆₋₅₂
-vless://b543c35e-ec44-4979-849b-84099ca8a3d8@tuns.aminicity.ir:9032?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#🇮🇷 @NETMelliAnti • 🆃unnel • [67-1] ₁₄₀₅₋₀₅₋₂₁__₁₂₋₂₈₋₂₀
+vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?encryption=none&headerType=&security=&type=tcp#🇮🇷 @CloudCityy • 🆃unnel • [9-1] ₁₄₀₅₋₀₅₋₂₁__₁₃₋₂₃₋₁₀
+vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?encryption=none&headerType=none&security=&type=tcp#🇮🇷 @config_proxy • 🆃unnel • [10-1] ₁₄₀₅₋₀₅₋₂₁__₁₃₋₂₃₋₁₃
+vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?encryption=none&host=vixon.portab.org&path=%2F&security=none&type=ws#🇮🇷 @config_proxy • 🆃unnel • [10-2] ₁₄₀₅₋₀₅₋₂₁__₁₃₋₂₃₋₁₃
+vless://816bbb30-5c89-40a2-d0fe-b9334972b032@s3.zynetraq.ir:2087?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=s3.zynetraq.ir&mode=auto&path=%2FBetForward&pcs=1b995919865b4b061a1768296995613e66d1afad274f8b227d70521038e56c2b&security=tls&sni=s3.zynetraq.ir&type=xhttp&x_padding_bytes=100-1000#🇮🇷 @ConfigsHUB • 🆃unnel • [13-1] ₁₄₀₅₋₀₅₋₂₁__₁₃₋₂₃₋₂₀
+vless://b543c35e-ec44-4979-849b-84099ca8a3d8@tuns.aminicity.ir:9032?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#🇮🇷 @NETMelliAnti • 🆃unnel • [67-1] ₁₄₀₅₋₀₅₋₂₁__₁₃₋₂₅₋₀₀
