@@ -42,7 +42,7 @@
             "ss"
         ],
         "title": "Telegram: Contact @bright_vpn",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/bright_vpn.jpg"
     },
     "Capital_NET": {
         "types": [
@@ -95,8 +95,8 @@
             "vmess",
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "CUSTOM VPN SERVER",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/CUSTOMVPNSERVER.jpg"
     },
     "DigiV2ray": {
         "types": [
@@ -196,8 +196,8 @@
         "types": [
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "\u3164\ud83e\uddcb \u05a2\u05b8xohub",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/God_CONFIG.jpg"
     },
     "Helix_Servers": {
         "types": [
@@ -365,8 +365,8 @@
         "types": [
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "NIMVPN",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/NIM_VPN_ir.jpg"
     },
     "oneclickvpnkeys": {
         "types": [
@@ -402,7 +402,7 @@
             "ss"
         ],
         "title": "Outline VPN Official",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/OutlineVpnOfficial.jpg"
+        "logo": null
     },
     "PAINB0Y": {
         "types": [
@@ -507,8 +507,8 @@
         "types": [
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "VIP SERVER",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/server444.jpg"
     },
     "serveriran11": {
         "types": [
@@ -737,7 +737,7 @@
             "vless"
         ],
         "title": "Telegram: Contact @v2trayproxy",
-        "logo": null
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/v2trayproxy.jpg"
     },
     "vless_vmess": {
         "types": [
@@ -821,7 +821,7 @@
         "types": [
             "vless"
         ],
-        "title": null,
+        "title": "\u06a9\u0633 \u0645\u0627\u062f\u0631\u062a \u0634\u06cc\u062e \u062a\u0628\u0631 \u0632\u0646",
         "logo": null
     },
     "WebShecan": {
