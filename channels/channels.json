@@ -87,7 +87,7 @@
             "vmess",
             "vless"
         ],
-        "title": null,
+        "title": "gv",
         "logo": null
     },
     "CUSTOMVPNSERVER": {
@@ -95,15 +95,15 @@
             "vmess",
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "CUSTOM VPN SERVER",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/CUSTOMVPNSERVER.jpg"
     },
     "DigiV2ray": {
         "types": [
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "Digiv2ray vip|\u0627\u0637\u0644\u0627\u0639 \u0631\u0633\u0627\u0646\u06cc \u0633\u0631\u0648\u06cc\u0633\u200c\u0647\u0627",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/DigiV2ray.jpg"
     },
     "DirectVPN": {
         "types": [
@@ -116,15 +116,15 @@
         "types": [
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "NpV TUNNEL | \u0648\u06cc\u062a\u0648\u0631\u06cc | V2RayNG | \u06a9\u0627\u0646\u0641\u06cc\u06af",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/FalconPolV2rayNG.jpg"
     },
     "flyv2ray": {
         "types": [
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "FlyV2ray",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/flyv2ray.jpg"
     },
     "fnet00": {
         "types": [
@@ -132,8 +132,8 @@
             "vless",
             "trojan"
         ],
-        "title": null,
-        "logo": null
+        "title": "\ud83d\uddfd FNET00 | \u0647\u0645\u0647 \u0686\u06cc\u0632 \u0622\u0632\u0627\u062f \ud83e\udd0d",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/fnet00.jpg"
     },
     "FreakConfig": {
         "types": [
@@ -142,8 +142,8 @@
             "trojan",
             "ss"
         ],
-        "title": null,
-        "logo": null
+        "title": "\u0633\u0631\u0648\u0631 \u06a9\u0627\u0646\u0641\u06cc\u06af \u06a9\u0627\u0646\u0641\u06cc\u0646\u06af \u0631\u0627\u06cc\u06af\u0627\u0646",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/FreakConfig.jpg"
     },
     "free1_vpn": {
         "types": [
@@ -159,73 +159,73 @@
             "vmess",
             "ss"
         ],
-        "title": null,
-        "logo": null
+        "title": "Shadowsocks Outline Vmess Vless Open VPN",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/free4allVPN.jpg"
     },
     "free_v2rayn1": {
         "types": [
             "vmess",
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "Telegram: Contact @free_v2rayn1",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/free_v2rayn1.jpg"
     },
     "free_v2rayyy": {
         "types": [
             "vmess",
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "\u0686\u0646\u0644 \u0627\u0646\u062a\u0642\u0627\u0644 \u06cc\u0627\u0641\u062a",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/free_v2rayyy.jpg"
     },
     "frev2ray": {
         "types": [
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "\u0648\u0635\u0644 \u0634\u062f\u0646 \u0628\u0647 \u0646\u062a | V2ray \u200c| Vpn",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/frev2ray.jpg"
     },
     "ghalagyann": {
         "types": [
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "ghalagyann",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/ghalagyann.jpg"
     },
     "God_CONFIG": {
         "types": [
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "\u3164\ud83e\uddcb \u05a2\u05b8xohub",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/God_CONFIG.jpg"
     },
     "Helix_Servers": {
         "types": [
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "- HELIX -",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/Helix_Servers.jpg"
     },
     "Hope_Net": {
         "types": [
             "vmess"
         ],
-        "title": null,
-        "logo": null
+        "title": "\ud83d\udd4a Hope Net",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/Hope_Net.jpg"
     },
     "info_2IT_channel": {
         "types": [
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "Telegram: Contact @info_2IT_channel",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/info_2IT_channel.jpg"
     },
     "INIT1984": {
         "types": [
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "Telegram: Contact @INIT1984",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/INIT1984.jpg"
     },
     "iP_CF": {
         "types": [
@@ -234,8 +234,8 @@
             "trojan",
             "ss"
         ],
-        "title": null,
-        "logo": null
+        "title": "IP_CF | Channel",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/iP_CF.jpg"
     },
     "ipV2Ray": {
         "types": [
@@ -248,8 +248,8 @@
         "types": [
             "vless"
         ],
-        "title": null,
-        "logo": null
+        "title": "Iran Online New",
+        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/lranOnline_new.jpg"
     },
     "IRN_VPN": {
         "types": [
