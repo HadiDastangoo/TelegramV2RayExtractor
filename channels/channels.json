@@ -72,8 +72,8 @@
             "vless",
             "trojan"
         ],
-        "title": "\ud835\ude3e\ud835\ude64\ud835\ude63\ud835\ude5b\ud835\ude5e\ud835\ude5c\ud835\ude68\ud835\ude43\ud835\ude6a\ud835\ude57",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/ConfigsHUB.jpg"
+        "title": null,
+        "logo": null
     },
     "crgaming7": {
         "types": [
@@ -123,8 +123,8 @@
         "types": [
             "vless"
         ],
-        "title": "FlyV2ray",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/flyv2ray.jpg"
+        "title": null,
+        "logo": null
     },
     "fnet00": {
         "types": [
@@ -306,7 +306,7 @@
             "vless"
         ],
         "title": "Telegram: Contact @LoRd_uL4mo",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/LoRd_uL4mo.jpg"
+        "logo": null
     },
     "lrnbymaa": {
         "types": [
@@ -543,8 +543,8 @@
         "types": [
             "vless"
         ],
-        "title": "Sh Proxy",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/shh_proxy.jpg"
+        "title": null,
+        "logo": null
     },
     "shopingv2ray": {
         "types": [
@@ -807,8 +807,8 @@
         "types": [
             "vless"
         ],
-        "title": "@VpnFreeSec",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/VpnFreeSec.jpg"
+        "title": null,
+        "logo": null
     },
     "vpnmasi": {
         "types": [
