@@ -1,9 +1,7 @@
-trojan://9SmhZnHv0G@api.ohbah.com:3004?alpn=h3%2C+h2%2C+http%2F1.1&headerType=none&security=tls&type=tcp#🇩🇪 @ConfigsHUB • [14-1] ₁₄₀₅₋₀₇₋₀₂__₂₃₋₀₃₋₀₇
-trojan://mitivpn@167.82.76.7:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net&insecure=0&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=ssl.fastly.com&type=ws#🇺🇸 @FreakConfig • [29-1] ₁₄₀₅₋₀₇₋₀₂__₂₃₋₀₃₋₂₂
-trojan://humanity@188.114.97.7:443?allowInsecure=0&ech=ip.gs+udp%3A%2F%2F8.8.8.8&insecure=0&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🚩 @FreakConfig • [29-2] ₁₄₀₅₋₀₇₋₀₂__₂₃₋₀₃₋₂₃
-trojan://humanity@188.114.97.6:443?alpn=http%2F1.1&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&type=ws#🚩 @oneclickvpnkeys • [70-1] ₁₄₀₅₋₀₇₋₀₂__₂₃₋₀₃₋₅₈
-trojan://humanity@88.99.189.60:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🚩 @oneclickvpnkeys • [70-2] ₁₄₀₅₋₀₇₋₀₂__₂₃₋₀₃₋₅₈
-trojan://pkj3BBnG2NE4wD-72SwgzNcfaHSes-dr@194.93.61.120:443?fp=edge&headerType=none&pbk=yAJlHrab9FWfz9f6Ya4xsBaBjnPytEQFqpVgs1aPHB0&security=reality&sid=43dcff53849b81e6&sni=16.img.avito.st&type=tcp#🇳🇱 @v2ray1_ng • 🆁eality • [119-1] ₁₄₀₅₋₀₇₋₀₂__₂₃₋₀₄₋₄₁
-trojan://humanity@172.67.149.60:443?allowInsecure=0&ech=ip.gs+udp%3A%2F%2F8.8.8.8&host=www.ignitelimit.com&insecure=0&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🚩 @v2ray1_ng • 🆁eality • [119-2] ₁₄₀₅₋₀₇₋₀₂__₂₃₋₀₄₋₄₁
-trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#🇺🇸 @yaney_01 • [161-1] ₁₄₀₅₋₀₇₋₀₂__₂₃₋₀₅₋₃₁
-trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#🇺🇸 @yaney_01 • [161-2] ₁₄₀₅₋₀₇₋₀₂__₂₃₋₀₅₋₃₁
+trojan://humanity@188.114.97.7:443?allowInsecure=0&ech=ip.gs+udp%3A%2F%2F8.8.8.8&insecure=0&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🚩 @FreakConfig • [29-1] ₁₄₀₅₋₀₇₋₀₃__₀₂₋₁₆₋₄₄
+trojan://humanity@188.114.97.6:443?alpn=http%2F1.1&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&type=ws#🚩 @oneclickvpnkeys • [70-1] ₁₄₀₅₋₀₇₋₀₃__₀₂₋₁₇₋₃₄
+trojan://humanity@88.99.189.60:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🚩 @oneclickvpnkeys • [70-2] ₁₄₀₅₋₀₇₋₀₃__₀₂₋₁₇₋₃₅
+trojan://pkj3BBnG2NE4wD-72SwgzNcfaHSes-dr@194.93.61.120:443?fp=edge&headerType=none&pbk=yAJlHrab9FWfz9f6Ya4xsBaBjnPytEQFqpVgs1aPHB0&security=reality&sid=43dcff53849b81e6&sni=16.img.avito.st&type=tcp#🇳🇱 @v2ray1_ng • 🆁eality • [119-1] ₁₄₀₅₋₀₇₋₀₃__₀₂₋₁₈₋₃₈
+trojan://humanity@172.67.149.60:443?allowInsecure=0&ech=ip.gs+udp%3A%2F%2F8.8.8.8&host=www.ignitelimit.com&insecure=0&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🚩 @v2ray1_ng • 🆁eality • [119-2] ₁₄₀₅₋₀₇₋₀₃__₀₂₋₁₈₋₃₈
+trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#🇺🇸 @yaney_01 • [161-1] ₁₄₀₅₋₀₇₋₀₃__₀₂₋₁₉₋₄₂
+trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#🇺🇸 @yaney_01 • [161-2] ₁₄₀₅₋₀₇₋₀₃__₀₂₋₁₉₋₄₂
