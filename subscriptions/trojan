@@ -1,9 +1,7 @@
-trojan://humanity@45.80.111.7:443?allowInsecure=0&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇩🇪 @ConfigsHUB • [14-1] ₁₄₀₅₋₀₇₋₁₆__₁₀₋₁₄₋₄₉
-trojan://humanity@162.159.91.211:443?allowInsecure=0&fp=chrome&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🚩 @ConfigsHUB • [14-2] ₁₄₀₅₋₀₇₋₁₆__₁₀₋₁₄₋₄₉
-trojan://humanity@www.speedtest.net:443?allowInsecure=0&ech=ip.gs+udp%3A%2F%2F8.8.8.8&host=www.calmlunch.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🚩 @FreakConfig • [29-1] ₁₄₀₅₋₀₇₋₁₆__₁₀₋₁₅₋₀₃
-trojan://humanity@141.193.213.172:443?allowInsecure=0&ech=ip.gs+udp%3A%2F%2F8.8.8.8&host=www.calmlunch.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇺🇸 @FreakConfig • [29-2] ₁₄₀₅₋₀₇₋₁₆__₁₀₋₁₅₋₀₃
-trojan://humanity@141.193.213.172:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🚩 @oneclickvpnkeys • [70-1] ₁₄₀₅₋₀₇₋₁₆__₁₀₋₁₅₋₄₃
-trojan://humanity@45.205.0.6:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🇸🇨 @oneclickvpnkeys • [70-2] ₁₄₀₅₋₀₇₋₁₆__₁₀₋₁₅₋₄₃
-trojan://humanity@8.47.69.0:443?allowInsecure=0&alpn=http%2F1.1&host=www.pleadcourt.org&insecure=0&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#🚩 @v2ray1_ng • [119-2] ₁₄₀₅₋₀₇₋₁₆__₁₀₋₁₆₋₂₇
-trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#🇺🇸 @yaney_01 • [161-1] ₁₄₀₅₋₀₇₋₁₆__₁₀₋₁₇₋₁₄
-trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#🇺🇸 @yaney_01 • [161-2] ₁₄₀₅₋₀₇₋₁₆__₁₀₋₁₇₋₁₄
+trojan://humanity@141.193.213.172:443?allowInsecure=0&ech=ip.gs+udp%3A%2F%2F8.8.8.8&host=www.calmlunch.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇺🇸 @FreakConfig • [29-1] ₁₄₀₅₋₀₇₋₁₆__₁₇₋₃₇₋₅₀
+trojan://humanity@www.speedtest.net:443?allowInsecure=0&ech=ip.gs+udp%3A%2F%2F8.8.8.8&host=www.calmlunch.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🚩 @FreakConfig • [29-2] ₁₄₀₅₋₀₇₋₁₆__₁₇₋₃₇₋₅₀
+trojan://humanity@45.205.0.6:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🇸🇨 @oneclickvpnkeys • [70-1] ₁₄₀₅₋₀₇₋₁₆__₁₇₋₃₈₋₅₀
+trojan://UX82473651@34.242.77.118:443?fp=chrome&sni=sacred-anemone.rooster465.autos#🇮🇪 @oneclickvpnkeys • [70-2] ₁₄₀₅₋₀₇₋₁₆__₁₇₋₃₈₋₅₀
+trojan://humanity@8.47.69.0:443?allowInsecure=0&alpn=http%2F1.1&host=www.pleadcourt.org&insecure=0&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#🚩 @v2ray1_ng • [119-2] ₁₄₀₅₋₀₇₋₁₆__₁₇₋₃₉₋₅₇
+trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#🇺🇸 @yaney_01 • [161-1] ₁₄₀₅₋₀₇₋₁₆__₁₇₋₄₀₋₅₉
+trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#🇺🇸 @yaney_01 • [161-2] ₁₄₀₅₋₀₇₋₁₆__₁₇₋₄₀₋₅₉
