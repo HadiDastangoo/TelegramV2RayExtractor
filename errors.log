@@ -3987,3 +3987,6 @@
 [12-Sep-2026 14:55:03 Asia/Tehran] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
 [12-Sep-2026 14:55:03 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/VpnFreeSec): failed to open stream: operation failed in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
 [12-Sep-2026 14:55:03 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
+[11-Oct-2026 02:34:55 Asia/Tehran] PHP Warning:  file_get_contents(): SSL: Connection reset by peer in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[11-Oct-2026 02:34:55 Asia/Tehran] PHP Warning:  file_get_contents(https://t.me/s/lightning6): failed to open stream: HTTP request failed! in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 131
+[11-Oct-2026 02:34:55 Asia/Tehran] PHP Notice:  Undefined offset: 1 in /home/runner/work/TelegramV2RayExtractor/TelegramV2RayExtractor/collector.php on line 143
