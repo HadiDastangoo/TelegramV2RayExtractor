@@ -1,9 +1,7 @@
-trojan://Trojan@82164024@92.118.150.146:443?allowInsecure=0&fp=chrome&headerType=none&insecure=0&security=tls&sni=pl.tronsg.com&type=tcp#🇵🇱 @ConfigsHUB • [14-1] ₁₄₀₅₋₀₇₋₂₅__₁₃₋₁₇₋₄₀
-trojan://humanity@www.speedtest.net:443?allowInsecure=0&ech=ip.gs+udp%3A%2F%2F8.8.8.8&host=www.calmlunch.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🚩 @FreakConfig • [29-1] ₁₄₀₅₋₀₇₋₂₅__₁₃₋₁₇₋₅₂
-trojan://humanity@188.114.97.6:443?allowInsecure=0&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&host=www.pleadcourt.org&insecure=0&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#🚩 @FreakConfig • [29-2] ₁₄₀₅₋₀₇₋₂₅__₁₃₋₁₇₋₅₂
-trojan://humanity@89.150.34.41:2053?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🇳🇱 @oneclickvpnkeys • [70-1] ₁₄₀₅₋₀₇₋₂₅__₁₃₋₁₈₋₂₆
-trojan://cMCQxnflDO@31.76.10.180:36508?security=none#🇩🇪 @oneclickvpnkeys • [70-2] ₁₄₀₅₋₀₇₋₂₅__₁₃₋₁₈₋₂₆
-trojan://humanity@188.114.97.6:443?allowInsecure=0&alpn=http%2F1.1&ech=cloudflare-ech.com+udp%3A%2F%2F1.1.1.1&fp=chrome&host=www.pleadcourt.org&insecure=0&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#🚩 @v2ray1_ng • [119-1] ₁₄₀₅₋₀₇₋₂₅__₁₃₋₁₉₋₀₈
-trojan://humanity@188.114.97.6:443?allowInsecure=0&alpn=http%2F1.1&ech=cloudflare-ech.com+udp%3A%2F%2F1.1.1.1&fp=chrome&host=www.volumeroot.com&insecure=0&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#🚩 @v2ray1_ng • [119-2] ₁₄₀₅₋₀₇₋₂₅__₁₃₋₁₉₋₀₈
-trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#🇺🇸 @yaney_01 • [161-1] ₁₄₀₅₋₀₇₋₂₅__₁₃₋₁₉₋₄₅
-trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#🇺🇸 @yaney_01 • [161-2] ₁₄₀₅₋₀₇₋₂₅__₁₃₋₁₉₋₄₇
+trojan://humanity@188.114.97.6:443?allowInsecure=0&alpn=http%2F1.1&ech=cloudflare-ech.com+udp%3A%2F%2F1.1.1.1&fp=chrome&host=www.volumeroot.com&insecure=0&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#🚩 @FreakConfig • [29-1] ₁₄₀₅₋₀₇₋₂₅__₁₆₋₄₈₋₅₄
+trojan://humanity@188.114.98.0:443?allowInsecure=0&alpn=http%2F1.1&ech=cloudflare-ech.com+udp%3A%2F%2F1.1.1.1&fp=chrome&host=www.calmlunch.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🚩 @FreakConfig • [29-2] ₁₄₀₅₋₀₇₋₂₅__₁₆₋₄₈₋₅₄
+trojan://humanity@89.150.34.41:2053?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🇳🇱 @oneclickvpnkeys • [70-1] ₁₄₀₅₋₀₇₋₂₅__₁₆₋₄₉₋₃₉
+trojan://cMCQxnflDO@31.76.10.180:36508?security=none#🇩🇪 @oneclickvpnkeys • [70-2] ₁₄₀₅₋₀₇₋₂₅__₁₆₋₄₉₋₃₉
+trojan://humanity@188.114.97.6:443?allowInsecure=0&alpn=http%2F1.1&ech=cloudflare-ech.com+udp%3A%2F%2F1.1.1.1&fp=chrome&host=www.pleadcourt.org&insecure=0&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#🚩 @v2ray1_ng • [119-1] ₁₄₀₅₋₀₇₋₂₅__₁₆₋₅₀₋₃₁
+trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#🇺🇸 @yaney_01 • [161-1] ₁₄₀₅₋₀₇₋₂₅__₁₆₋₅₁₋₁₈
+trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#🇺🇸 @yaney_01 • [161-2] ₁₄₀₅₋₀₇₋₂₅__₁₆₋₅₁₋₁₉
