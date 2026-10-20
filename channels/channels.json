@@ -204,7 +204,7 @@
             "vless"
         ],
         "title": "- HELIX -",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/Helix_Servers.jpg"
+        "logo": null
     },
     "Hope_Net": {
         "types": [
@@ -573,7 +573,7 @@
             "vmess"
         ],
         "title": "v2Line Proxy",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/v2Line.jpg"
+        "logo": null
     },
     "V2parsin": {
         "types": [
@@ -722,7 +722,7 @@
             "vmess"
         ],
         "title": "Freevtnet",
-        "logo": "https:\/\/raw.githubusercontent.com\/HadiDastangoo\/TelegramV2RayExtractor\/main\/channels\/assets\/v2rayOpen.jpg"
+        "logo": null
     },
     "V2RayTz": {
         "types": [
